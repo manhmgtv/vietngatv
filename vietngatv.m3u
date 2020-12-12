@@ -305,6 +305,9 @@ https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/IDkKiEa.png",VTC5 SD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/IDkKiEa.png",VTC5 HD
+#EXTVLCOPT:http-user-agent="SmartSDK"
+https://hni-vtt-002-livecdn-vthn-vnd.vieon.vn/54af581f20ef9243b5f1d714e28a827e/1607786653632/vtc/live/hd_vtc5/TV_HD/hd_vtc5_1080p/chunks.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/rTxMJIB.png",VTC6 SD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
@@ -1157,9 +1160,6 @@ https://livecdn.fptplay.net/QUỐC TẾlive/babyfirst_hls.smil/chunklist_b250000
 #EXTINF:-1 group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/n64Z8Ss.png",Baby First | HPlus
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BABYFIRST-SD-720p/chunks.m3u8
-#EXTINF:-1 group-title="THIẾU NHI" tvg-logo="https://imgur.com/LBU2zCq.png",Baby TV
-#EXTVLCOPT:http-user-agent="SmartSDK"
-https://zabava-htlive.cdn.ngenix.net/hls/CH_BABYTV/bw2000000/variant.m3u8
 #EXTINF:-1 group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/Ee2jhT0.png",Детский Мир
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DETSKIJMIR/bw2000000/variant.m3u8
