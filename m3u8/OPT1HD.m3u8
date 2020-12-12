@@ -1,4 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=4692000,RESOLUTION=1920x1080
-http://rt-sib-galt-htlive-lb.cdn.ngenix.net/hls/CH_R05_1TV/variant.m3u8
