@@ -1327,7 +1327,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALL3HD/bw4000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="KÊNH THỂ THAO (SD)" tvg-logo="https://i.imgur.com/CxiUK9c.png",Матч Премьер
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C06_NASHFOOTBALLHD/bw2000000/variant.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="SERIE A" tvg-logo="https://i.imgur.com/CxiUK9c.png",Матч Премьер HD
+#EXTINF:-1 aspect-ratio="16:9" group-title="KÊNH THỂ THAO (HD)" tvg-logo="https://i.imgur.com/CxiUK9c.png",Матч Премьер HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C06_NASHFOOTBALLHD/bw4000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="KÊNH THỂ THAO (SD)" tvg-logo="https://i.imgur.com/pMmChoI.png",Матч! БОЕЦ
@@ -1336,13 +1336,13 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_BOETZ/bw2000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="KÊNH THỂ THAO (SD)" tvg-logo="https://i.imgur.com/fCRDsuJ.jpg",ФУТБОЛ
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALLHD/bw2000000/variant.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="SERIE A" tvg-logo="https://i.imgur.com/fCRDsuJ.jpg",ФУТБОЛ (HD)
+#EXTINF:-1 aspect-ratio="16:9" group-title="KÊNH THỂ THAO (HD)" tvg-logo="https://i.imgur.com/fCRDsuJ.jpg",ФУТБОЛ (HD)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALLHD/bw4000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="KÊNH THỂ THAO (SD)" tvg-logo="https://i.imgur.com/BkoMWPU.png",Viasat Sport
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATSPORT/bw2000000/variant.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="SERIE A" tvg-logo="https://i.imgur.com/BkoMWPU.png",Viasat Sport HD
+#EXTINF:-1 aspect-ratio="16:9" group-title="KÊNH THỂ THAO (HD)" tvg-logo="https://i.imgur.com/BkoMWPU.png",Viasat Sport HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C06_VIASATSPORTHD/bw4000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="KÊNH THỂ THAO (SD)" tvg-logo="https://i.imgur.com/kWvCQZ2.png",Мир Баскетбола
