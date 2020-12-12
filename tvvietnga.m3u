@@ -145,6 +145,12 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_CORPCHANNELHD/bw2000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/cnbdjZr.png",Корпоративный канал HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_CORPCHANNELHD/bw5000000/variant.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/o4Julue.jpg",Известия
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_IZVESTIYAHD/bw2000000/variant.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/o4Julue.jpg",Известия HD
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_IZVESTIYAHD/bw4000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/BdyVZAd.png",ВЕСТИ FM | Оригинал
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_64kbps
@@ -420,9 +426,6 @@ http://livecdn.fptplay.net/tvc/sukien02_2000.stream/chunklist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Sự Kiện" tvg-logo="https://i.imgur.com/F6BJbRE.png",Sự Kiện 3
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://livecdn.fptplay.net/tvc/sukien03_2000.stream/chunklist.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Sự Kiện" tvg-logo="https://i.imgur.com/F6BJbRE.png",Bóng Rổ 1
-#EXTVLCOPT:http-user-agent="SmartSDK"
-http://livecdn.fptplay.net/schedule/wbc01_hls.smil/chunklist_b2500000.m3u8
 #------------------------Địa Phương------------------------#
 #EXTINF:-1 aspect-ratio="16:9" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/JpnhkCA.png",ATV - Truyền hình An Giang | FPT Play
 #EXTVLCOPT:http-user-agent="SmartSDK"
@@ -994,18 +997,15 @@ https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/OV5nhkM.png",NHK World Japan | FPT Play
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/OV5nhkM.png",NHK World Japan | Zabava
-#EXTVLCOPT:http-user-agent="SmartSDK"
-https://zabava-htlive.cdn.ngenix.net/hls/CH_NHK/bw2000000/variant.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/U3GlkzU.png",DW HD
+#EXTINF:-1 aspect-ratio="16:9" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/U3GlkzU.png",DW English
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/U3GlkzU.png",DW Deutsch
+#EXTVLCOPT:http-user-agent="SmartSDK"
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DEUTSCHEWELLE/bw2000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/iIrAEGx.png",Arirang | FPT Play
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/world/arirang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/iIrAEGx.png",Arirang | Zabava
-#EXTVLCOPT:http-user-agent="SmartSDK"
-https://s97982.cdn.ngenix.net/hls/CH_R02_OTT_DV_HVSK_OTTARIRANG/bw2000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/eyzGJhD.png",CNA
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/world/newsasia_hls.smil/chunklist_b2500000.m3u8
@@ -1054,12 +1054,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_CNN_INTERNATIONAL/bw2000000/variant.
 #EXTINF:-1 aspect-ratio="16:9" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/3sQunND.png",BBC Earth
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/QUỐC TẾlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/9ZqIRg1.png",BBC World News | FPT Play
+#EXTINF:-1 aspect-ratio="16:9" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/9ZqIRg1.png",BBC World News
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/QUỐC TẾlive/bbcnew_2000.stream/chunklist.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/9ZqIRg1.png",BBC World News | Zabava
-#EXTVLCOPT:http-user-agent="SmartSDK"
-https://zabava-htlive.cdn.ngenix.net/hls/CH_BBCWORLDNEWS/bw2000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/wwTUVYP.png",BBC Lifestyle
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/QUỐC TẾlive/bbclifestyle_2000.stream/chunklist.m3u8
