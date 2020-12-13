@@ -326,30 +326,21 @@ https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="VTC" tvg-logo="https://imgur.com/IDkKiEa.png",VTC5 SD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="VTC" tvg-logo="https://imgur.com/IDkKiEa.png",VTC5 HD
-#EXTVLCOPT:http-user-agent="SmartSDK"
-https://hni-vtt-002-livecdn-vthn-vnd.vieon.vn/54af581f20ef9243b5f1d714e28a827e/1607786653632/vtc/live/hd_vtc5/TV_HD/hd_vtc5_1080p/chunks.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="VTC" tvg-logo="https://imgur.com/rTxMJIB.png",VTC6 SD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="VTC" tvg-logo="https://imgur.com/sDWf2Q1.png",VTC7 SD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="VTC" tvg-logo="https://imgur.com/sDWf2Q1.png",VTC7 HD | HPlus
+#EXTINF:-1 aspect-ratio="16:9" group-title="VTC" tvg-logo="https://imgur.com/sDWf2Q1.png",VTC7 HD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/TODAYTV-SD-720p/playlist.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="VTC" tvg-logo="https://imgur.com/sDWf2Q1.png",VTC7 HD | VieOn
-#EXTVLCOPT:http-user-agent="SmartSDK"
-https://sgn-vtt-001-livecdn-vthn-vnd.vieon.vn/f1f818ec0baeafe117044a5a60ee9848/1607786710813/vtc/live/hd_vtc7/TV_HD/hd_vtc7_1080p/chunks.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="VTC" tvg-logo="https://imgur.com/cQ8Ygbk.png",VTC8 SD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="VTC" tvg-logo="https://imgur.com/QuXPUqi.png",VTC9 SD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="VTC" tvg-logo="https://imgur.com/QuXPUqi.png",VTC9 HD
-#EXTVLCOPT:http-user-agent="SmartSDK"
-https://hni-vtt-002-livecdn-vthn-vnd.vieon.vn/ea76d55209c401f4876de9f029c0c799/1607786765702/vtc/live/hd_vtc9/TV_HD/hd_vtc9_1080p/chunks.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="VTC" tvg-logo="https://imgur.com/F6x7ZNA.png",VTC10 SD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
@@ -930,6 +921,12 @@ http://tv.kgtv.vn/live/kgaudio/kgaudio.m3u8
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://tv.ctvcamau.vn/live/radio/radio.m3u8
 #-------------------PHIM-------------------#
+#EXTINF:-1 aspect-ratio="16:9" group-title="PHIM QUỐC TẾ" tvg-logo="https://rsstv.gviet.vn/on/channel/BM1_M.png",Box Movie 1 HD
+#EXTVLCOPT:http-user-agent="SmartSDK"
+https://106bec9d8.vws.vegacdn.vn//cliptv_live/amlst:boxmovies1hd/manifest.mpd
+#EXTINF:-1 aspect-ratio="16:9" group-title="PHIM QUỐC TẾ" tvg-logo="https://rsstv.gviet.vn/on/channel/HC_M.png",Hollywood Classics HD
+#EXTVLCOPT:http-user-agent="SmartSDK"
+https://106bec9d8.vws.vegacdn.vn//cliptv_live/amlst:hollywoodclassichd/manifest.mpd
 #EXTINF:-1 aspect-ratio="16:9" group-title="PHIM QUỐC TẾ" tvg-logo="https://i.imgur.com/BaZuGNL.png",Blue Ant Entertainment
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
@@ -1081,9 +1078,6 @@ https://livecdn.fptplay.net/QUỐC TẾlive/fashiontvhd_hls.smil/chunklist_b2500
 #EXTINF:-1 aspect-ratio="16:9" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/krupazx.png",CNN | FPT Play
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/QUỐC TẾlive/cnn_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/krupazx.png",CNN | Zabava
-#EXTVLCOPT:http-user-agent="SmartSDK"
-https://zabava-htlive.cdn.ngenix.net/hls/CH_CNN_INTERNATIONAL/bw2000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/3sQunND.png",BBC Earth
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/QUỐC TẾlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
@@ -1111,7 +1105,7 @@ https://livecdn.fptplay.net/QUỐC TẾlive/discoveryasia_hls.smil/chunklist_b25
 #EXTINF:-1 aspect-ratio="16:9" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/9t7FsCk.png",Animal Planet HD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/QUỐC TẾlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/amlBPub.png",TLC
+#EXTINF:-1 aspect-ratio="16:9" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/amlBPub.png",TLC HD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/QUỐC TẾlive/travelliving_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/ZgWNVzC.png",Food Network (Tiếng Nga)
@@ -1190,6 +1184,9 @@ https://livecdn.fptplay.net/QUỐC TẾlive/babyfirst_hls.smil/chunklist_b250000
 #EXTINF:-1 aspect-ratio="16:9" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/n64Z8Ss.png",Baby First | HPlus
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BABYFIRST-SD-720p/chunks.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="THIẾU NHI" tvg-logo="https://imgstatic.vtvcab.vn/logos/HK_M.png",Happy Kids HD
+#EXTVLCOPT:http-user-agent="SmartSDK"
+https://106bec9d8.vws.vegacdn.vn//cliptv_live/amlst:happykidhd/manifest.mpd
 #EXTINF:-1 aspect-ratio="16:9" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/Ee2jhT0.png",Детский Мир
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DETSKIJMIR/bw2000000/variant.m3u8
@@ -1200,6 +1197,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STSKIDSHD/bw2000000/variant.m3u8
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSKIDSHD/bw4000000/variant.m3u8
 #-------------------KHÁC-------------------#
+#EXTINF:-1 aspect-ratio="16:9" group-title="KHÁC" tvg-logo="https://imgstatic.vtvcab.vn/logos/PE_M.png",Planet Earth HD
+#EXTVLCOPT:http-user-agent="SmartSDK"
+https://106bec9d8.vws.vegacdn.vn//cliptv_live/amlst:planetearthhd/manifest.mpd
 #EXTINF:-1 aspect-ratio="16:9" group-title="KHÁC" tvg-logo="https://i.imgur.com/AcMe0L2.png",GAGSNETWORK
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_GAGSNETWORKHD/bw2000000/variant.m3u8
