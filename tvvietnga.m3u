@@ -3,142 +3,142 @@
 #------------------------Nga Ngố------------------------#
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/zGGqlZt.png",Первый канал (Красноярск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
+https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 (Красноярск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/eM0IiDd.png",Матч! (Красноярск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8
+https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/uBCPAz5.png",НТВ (Красноярск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
+https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/db8Alid.png",Пятый канал (Красноярск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
+https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/i4hHXeO.png",Россия K (Красноярск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
+https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/e3wm4xi.png",Россия 24 (Красноярск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
+https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/dTMnOdK.png",Карусель (Красноярск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R02_KARUSEL/variant.m3u8
+https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R02_KARUSEL/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/XxfrqEH.png",ОТР (Красноярский край)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTR_KRASN_KRAI/variant.m3u8
+https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTR_KRASN_KRAI/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/iDc32h7.png",ТВЦ (Красноярск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
+https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/uqyD0Uw.png",РЕН ТВ (Красноярск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
+https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/Pifyskn.jpg",СПАС (Кемеровская область)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-kem-htlive-lb.cdn.ngenix.net/hls/CH_R01_SPAS_KEMOBL/variant.m3u8
+https://rt-sib-kem-htlive-lb.cdn.ngenix.net/hls/CH_R01_SPAS_KEMOBL/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/N9Vne9J.png",СТС (Красноярск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R04_STS/variant.m3u8
+https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R04_STS/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/QpJhf46.png",Домашний (Красноярск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
+https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/m19Px3Q.png",ТВ3 (Красноярск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
+https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/LVCEIS7.png",Пятница! (Красноярск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
+https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/0j9Gn0p.png",Звезда (Красноярск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
+https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/WgGYZ3l.png",Мир (Красноярский край)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R02_MIR_KRASN_KRAI/variant.m3u8
+https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R02_MIR_KRASN_KRAI/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/sWM6qmP.png",ТНТ (Красноярск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
+https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/QV67LKt.png",МУЗ ТВ (Новосибирск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-nsk-htlive-lb.cdn.ngenix.net/hls/CH_R04_MUZTV/variant.m3u8
+https://rt-sib-nsk-htlive-lb.cdn.ngenix.net/hls/CH_R04_MUZTV/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/tHZJ8H5.png",Че (Красноярск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
+https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/bUPin0y.png",СТС Love (+2)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/bw2000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/nXI0mKz.png",Ю (Красноярск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
+https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/7FMJlWF.png",Disney Channel Russia (Красноярск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R02_DISNEYCHANNEL/variant.m3u8
+https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R02_DISNEYCHANNEL/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/flbQwJf.png",ТНТ4 (Красноярск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R02_TNT4_4/variant.m3u8
+https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R02_TNT4_4/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/eP473R1.png",2x2 (Красноярск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R04_2X2/variant.m3u8
+https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R04_2X2/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/SjRoIXY.png",Супер (+4)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/bw2000000/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/bw2000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/PiilZYv.png",8 канал Абакан
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-abakan-htlive-lb.cdn.ngenix.net/hls/CH_R02_8CHANNEL_ABAKAN/variant.m3u8
+https://rt-sib-abakan-htlive-lb.cdn.ngenix.net/hls/CH_R02_8CHANNEL_ABAKAN/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/ruJHgoX.png",Республиканская телевизионная сеть (Абакан)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-abakan-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/variant.m3u8
+https://rt-sib-abakan-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/uPCfteS.png",ТВ-7 (Абакан)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/g7iqphh.png",Катунь 24 (Барнаул)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-bul-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_KATUN24/variant.m3u8
+https://rt-sib-bul-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_KATUN24/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/jpAezb1.png",Толк (Барнаул)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-bul-htlive-lb.cdn.ngenix.net/hls/CH_R01_TOLK/variant.m3u8
+https://rt-sib-bul-htlive-lb.cdn.ngenix.net/hls/CH_R01_TOLK/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/UvpzpBC.png",Енисей (Красноярск) (HD)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_ENISEY/variant.m3u8
+https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_ENISEY/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/TjCmNqo.png",Афонтово (Красноярск) (HD)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_AFONTOVO/variant.m3u8
+https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_AFONTOVO/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/0FLGiBV.png",ТК Центр (Красноярск) (HD)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_CENTRKRSN/variant.m3u8
+https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_CENTRKRSN/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/M14MmYk.png",7 канал (Красноярск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R13_RENTV/variant.m3u8
+https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R13_RENTV/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/wfmHkcY.png",8 канал Красноярский край (Красноярск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R02_8CHANNEL/variant.m3u8
+https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R02_8CHANNEL/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/M8xKe3A.png",Прима ТВ (Красноярск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R11_STS/variant.m3u8
+https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R11_STS/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/TLebQRy.png",ОТС (Новосибирск) (HD)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-nsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
+https://rt-sib-nsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/Z3Q0xTf.png",НТН24 (Новосибирск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_NTN24/variant.m3u8
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_NTN24/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/lOSCYb5.png",НСК 49 (Новосибирск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-nsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8
+https://rt-sib-nsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/B8TnPMk.png",СТС-Мир (Новосибирск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_TSM/variant.m3u8
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_TSM/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/7QQ9Y99.png",8 канал (Новосибирск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/9lxsX0E.jpg",РБК ТВ (Новосибирск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_RBC/variant.m3u8
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_RBC/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/WkPm5EB.png",Кузбасс Первый (Кемерово)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-kem-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KEM_GTRK/variant.m3u8
+https://rt-sib-kem-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KEM_GTRK/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/7HXvaik.jpg",Томское время (Томск) (HD)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-tomsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_TOMSK_TOMSKVREMIA/variant.m3u8
+https://rt-sib-tomsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_TOMSK_TOMSKVREMIA/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Nga Ngố" tvg-logo="https://i.imgur.com/cnbdjZr.png",Корпоративный канал
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_CORPCHANNELHD/bw2000000/variant.m3u8
@@ -715,7 +715,10 @@ http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/vzaqu80.png",KG1 - Truyền hình Kiên Giang 1 HD | Vietcago
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://vietcago.net/vstv/kiengiangtv1.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/drRKaoY.jpg",KRT - Truyền hình Kon Tum
+#EXTINF:-1 aspect-ratio="16:9" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/drRKaoY.jpg",KRT - Truyền hình Kon Tum | Gốc
+#EXTVLCOPT:http-user-agent="SmartSDK"
+http://117.2.88.22/tv/kontumtv.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/drRKaoY.jpg",KRT - Truyền hình Kon Tum | FPT Play
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/sdc/kontum_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/WM7ddLv.png",LTV - Truyền hình Lâm Đồng
@@ -990,6 +993,9 @@ https://livecdn.fptplay.net/QUỐC TẾlive/cinemawork_hls.smil/chunklist_b25000
 #EXTINF:-1 aspect-ratio="16:9" group-title="PHIM QUỐC TẾ" tvg-logo="https://i.imgur.com/r1PsUqC.png",Cinema World | HPlus
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/chunks.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="PHIM QUỐC TẾ" tvg-logo="https://rsstv.gviet.vn/sctv/159/235/1582342017035.png",FX HD
+#EXTVLCOPT:http-user-agent="SmartSDK"
+https://106bec9d8.vws.vegacdn.vn//cliptv_live/amlst:fxhd/manifest.mpd
 #EXTINF:-1 aspect-ratio="16:9" group-title="PHIM QUỐC TẾ" tvg-logo="https://i.imgur.com/cwVCPqN.png",Fox HD | FPT Play
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
@@ -1182,20 +1188,11 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_DTXHD/bw2000000/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DTXHD/bw4000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/2vQ8yIX.png",HGTV (Tiếng Nga)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_HGTVHD/bw2000000/variant.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/2vQ8yIX.png",HGTV HD (Tiếng Nga)
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_HGTVHD/bw4000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/EGsMvoj.png",History (Tiếng Nga)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_HDHISTORY/bw2000000/variant.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/ejXfHa4.png",History HD (Tiếng Nga)
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C05_HDHISTORY/bw4000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/XIpsgye.png",History 2 (Tiếng Nga)
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_H2HD/bw2000000/variant.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/XIpsgye.png",History 2 HD (Tiếng Nga)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_H2HD/bw4000000/variant.m3u8
 #-------------------THIẾU NHI-------------------#
@@ -1226,32 +1223,38 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STSKIDSHD/bw2000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="THIẾU NHI" tvg-logo="https://i.imgur.com/BrcZ09P.png",СТС Kids HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSKIDSHD/bw4000000/variant.m3u8
-#-------------------KHÁC-------------------#
-#EXTINF:-1 aspect-ratio="16:9" group-title="KHÁC" tvg-logo="https://imgstatic.vtvcab.vn/logos/PE_M.png",Planet Earth HD
+#-------------------GIẢI TRÍ-------------------#
+#EXTINF:-1 aspect-ratio="16:9" group-title="GIẢI TRÍ" tvg-logo="https://imgstatic.vtvcab.vn/logos/PE_M.png",Planet Earth HD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://106bec9d8.vws.vegacdn.vn//cliptv_live/amlst:planetearthhd/manifest.mpd
-#EXTINF:-1 aspect-ratio="16:9" group-title="KHÁC" tvg-logo="https://i.imgur.com/AcMe0L2.png",GAGSNETWORK
+#EXTINF:-1 aspect-ratio="16:9" group-title="GIẢI TRÍ" tvg-logo="https://imgstatic.vtvcab.vn/logos/PE_M.png",Woman HD
+#EXTVLCOPT:http-user-agent="SmartSDK"
+https://106bec9d8.vws.vegacdn.vn//cliptv_live/amlst:womanhd/manifest.mpd
+#EXTINF:-1 aspect-ratio="16:9" group-title="GIẢI TRÍ" tvg-logo="https://imgstatic.vtvcab.vn/logos/DF_M.png",Dr. Fit HD
+#EXTVLCOPT:http-user-agent="SmartSDK"
+https://106bec9d8.vws.vegacdn.vn//cliptv_live/amlst:drfithd/manifest.mpd
+#EXTINF:-1 aspect-ratio="16:9" group-title="GIẢI TRÍ" tvg-logo="https://i.imgur.com/AcMe0L2.png",GAGSNETWORK
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_GAGSNETWORKHD/bw2000000/variant.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="KHÁC" tvg-logo="https://i.imgur.com/AcMe0L2.png",GAGSNETWORK HD
+#EXTINF:-1 aspect-ratio="16:9" group-title="GIẢI TRÍ" tvg-logo="https://i.imgur.com/AcMe0L2.png",GAGSNETWORK HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_GAGSNETWORKHD/bw5000000/variant.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="KHÁC" tvg-logo="https://i.imgur.com/4jUEFQC.png",Зал суда
+#EXTINF:-1 aspect-ratio="16:9" group-title="GIẢI TRÍ" tvg-logo="https://i.imgur.com/4jUEFQC.png",Зал суда
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZALSUDAHD/bw2000000/variant.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="KHÁC" tvg-logo="https://i.imgur.com/4jUEFQC.png",Зал суда HD
+#EXTINF:-1 aspect-ratio="16:9" group-title="GIẢI TRÍ" tvg-logo="https://i.imgur.com/4jUEFQC.png",Зал суда HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZALSUDAHD/bw5000000/variant.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="KHÁC" tvg-logo="https://i.imgur.com/GfUboZY.png",Дикая охота SD
+#EXTINF:-1 aspect-ratio="16:9" group-title="GIẢI TRÍ" tvg-logo="https://i.imgur.com/GfUboZY.png",Дикая охота SD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYAOHOTAHD/bw2000000/variant.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="KHÁC" tvg-logo="https://i.imgur.com/GfUboZY.png",Дикая охота HD
+#EXTINF:-1 aspect-ratio="16:9" group-title="GIẢI TRÍ" tvg-logo="https://i.imgur.com/GfUboZY.png",Дикая охота HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYAOHOTAHD/bw5000000/variant.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="KHÁC" tvg-logo="https://i.imgur.com/GFeGtXS.png",Дикая рыбалка SD
+#EXTINF:-1 aspect-ratio="16:9" group-title="GIẢI TRÍ" tvg-logo="https://i.imgur.com/GFeGtXS.png",Дикая рыбалка SD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYARYBALKAHD/bw2000000/variant.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="KHÁC" tvg-logo="https://i.imgur.com/GFeGtXS.png",Дикая рыбалка HD
+#EXTINF:-1 aspect-ratio="16:9" group-title="GIẢI TRÍ" tvg-logo="https://i.imgur.com/GFeGtXS.png",Дикая рыбалка HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYARYBALKAHD/bw5000000/variant.m3u8
 #-------------------Mua Sắm-------------------#
