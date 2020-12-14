@@ -715,10 +715,7 @@ http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/vzaqu80.png",KG1 - Truyền hình Kiên Giang 1 HD | Vietcago
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://vietcago.net/vstv/kiengiangtv1.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/drRKaoY.jpg",KRT - Truyền hình Kon Tum | Gốc
-#EXTVLCOPT:http-user-agent="SmartSDK"
-http://117.2.88.22/tv/kontumtv.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/drRKaoY.jpg",KRT - Truyền hình Kon Tum | FPT Play
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/drRKaoY.jpg",KRT - Truyền hình Kon Tum
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/sdc/kontum_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/WM7ddLv.png",LTV - Truyền hình Lâm Đồng
@@ -963,6 +960,9 @@ https://106bec9d8.vws.vegacdn.vn//cliptv_live/amlst:hollywoodclassichd/manifest.
 #EXTINF:-1 group-title="PHIM QUỐC TẾ" tvg-logo="https://i.imgur.com/BaZuGNL.png",Blue Ant Entertainment
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="PHIM QUỐC TẾ" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD
+#EXTVLCOPT:http-user-agent="SmartSDK"
+https://hbogo-livecdn.fptplay.net/hbogo/hbo_1080p.stream/chunklist.m3u8
 #EXTINF:-1 group-title="PHIM QUỐC TẾ" tvg-logo="https://i.imgur.com/1bzBhnP.png",Fox Movies HD | FPT Play
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
