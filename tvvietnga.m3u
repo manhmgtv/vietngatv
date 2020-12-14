@@ -1016,16 +1016,16 @@ https://livecdn.fptplay.net/qnetlive/warnertv_hls.smil/chunklist_b2500000.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="PHIM QUỐC TẾ" tvg-logo="https://i.imgur.com/OB0WDL7.png",TV 1000
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000HD/bw2000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000HD/bw2000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="PHIM QUỐC TẾ" tvg-logo="https://i.imgur.com/OB0WDL7.png",TV 1000 HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000HD/bw5000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000HD/bw5000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="PHIM QUỐC TẾ" tvg-logo="https://i.imgur.com/NGa7hSO.png",TV 1000 Action
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000ACTIONHD/bw2000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000ACTIONHD/bw2000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="PHIM QUỐC TẾ" tvg-logo="https://i.imgur.com/fHDYEVi.png",TV 1000 Action HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000ACTIONHD/bw5000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000ACTIONHD/bw5000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="PHIM QUỐC TẾ" tvg-logo="https://i.imgur.com/G6mJh6i.png",TV 1000 Русское кино
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000RUSSKOEKINOHD/bw2000000/variant.m3u8
@@ -1034,13 +1034,13 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000RUSSKOEKINOHD/bw2000000/varian
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000RUSSKOEKINOHD/bw5000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="PHIM QUỐC TẾ" tvg-logo="https://i.imgur.com/CNGIi13.png",Иллюзион+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ULLUSIONPLUS/bw2000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULLUSIONPLUS/bw2000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="PHIM QUỐC TẾ" tvg-logo="https://i.imgur.com/0KUYXwv.png",Русский Иллюзион
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANILLUSION/bw2000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANILLUSION/bw2000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="PHIM QUỐC TẾ" tvg-logo="https://i.imgur.com/2lqXcPj.png",TV XXI
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TVXXI/bw2000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVXXI/bw2000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="PHIM QUỐC TẾ" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/04/09/203777-zeetv-logo.png",Zee TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZEETV/bw2000000/variant.m3u8
@@ -1232,28 +1232,28 @@ https://106bec9d8.vws.vegacdn.vn//cliptv_live/amlst:womanhd/manifest.mpd
 https://106bec9d8.vws.vegacdn.vn//cliptv_live/amlst:drfithd/manifest.mpd
 #EXTINF:-1 aspect-ratio="16:9" group-title="GIẢI TRÍ" tvg-logo="https://i.imgur.com/AcMe0L2.png",GAGSNETWORK
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_GAGSNETWORKHD/bw2000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_GAGSNETWORKHD/bw2000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="GIẢI TRÍ" tvg-logo="https://i.imgur.com/AcMe0L2.png",GAGSNETWORK HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_GAGSNETWORKHD/bw5000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_GAGSNETWORKHD/bw5000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="GIẢI TRÍ" tvg-logo="https://i.imgur.com/4jUEFQC.png",Зал суда
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ZALSUDAHD/bw2000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZALSUDAHD/bw2000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="GIẢI TRÍ" tvg-logo="https://i.imgur.com/4jUEFQC.png",Зал суда HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ZALSUDAHD/bw5000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZALSUDAHD/bw5000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="GIẢI TRÍ" tvg-logo="https://i.imgur.com/GfUboZY.png",Дикая охота SD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYAOHOTAHD/bw2000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYAOHOTAHD/bw2000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="GIẢI TRÍ" tvg-logo="https://i.imgur.com/GfUboZY.png",Дикая охота HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYAOHOTAHD/bw5000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYAOHOTAHD/bw5000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="GIẢI TRÍ" tvg-logo="https://i.imgur.com/GFeGtXS.png",Дикая рыбалка SD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYARYBALKAHD/bw2000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYARYBALKAHD/bw2000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="GIẢI TRÍ" tvg-logo="https://i.imgur.com/GFeGtXS.png",Дикая рыбалка HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYARYBALKAHD/bw5000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYARYBALKAHD/bw5000000/variant.m3u8
 #-------------------Mua Sắm-------------------#
 #EXTINF:-1 aspect-ratio="16:9" group-title="Mua Sắm" tvg-logo="https://imgur.com/HwMUDwy.png",VTV Hyundai Homeshopping
 #EXTVLCOPT:http-user-agent="SmartSDK"
@@ -1282,7 +1282,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_JUVELIRTV/bw2000000/variant.m3u8
 #------------------------CA NHẠC QUỐC TẾ------------------------#
 #EXTINF:-1 aspect-ratio="16:9" group-title="CA NHẠC QUỐC TẾ" tvg-logo="https://i.imgur.com/BT8eRjq.png",[V] HD | FPT Play
 #EXTVLCOPT:http-user-agent="SmartSDK"
-http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="CA NHẠC QUỐC TẾ" tvg-logo="https://i.imgur.com/BT8eRjq.png",[V] HD | HPlus
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
@@ -1294,10 +1294,10 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_CLUBBINGHD/bw2000000/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_CLUBBINGHD/bw4000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="CA NHẠC QUỐC TẾ" tvg-logo="https://i.imgur.com/YuQM6II.png",AIVA
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_AIVAHD/bw2000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_AIVAHD/bw2000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="CA NHẠC QUỐC TẾ" tvg-logo="https://i.imgur.com/YuQM6II.png",AIVA HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_AIVAHD/bw5000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_AIVAHD/bw5000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="CA NHẠC QUỐC TẾ" tvg-logo="https://i.imgur.com/gpWosop.png",MTV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MTV/bw2000000/variant.m3u8
