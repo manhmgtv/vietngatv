@@ -1182,9 +1182,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_DISCOVERYINVESTIGATION/bw2000000/var
 https://zabava-htlive.cdn.ngenix.net/hls/CH_IDXTRAHD/bw4000000/variant.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/zmCumo6.png",DTX (Tiếng Nga)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DTXHD/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/zmCumo6.png",DTX HD (Tiếng Nga)
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DTXHD/bw4000000/variant.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/2vQ8yIX.png",HGTV (Tiếng Nga)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
