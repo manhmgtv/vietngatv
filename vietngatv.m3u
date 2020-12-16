@@ -136,9 +136,6 @@ https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_RBC/variant.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/WkPm5EB.png",Кузбасс Первый (Кемерово)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://rt-sib-kem-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KEM_GTRK/variant.m3u8
-#EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/WkPm5EB.png",Кузбасс Первый (Кемерово) (HD)
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://192.162.37.3:8000/play/a00h/index.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/7HXvaik.jpg",Томское время (Томск) (HD)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://rt-sib-tomsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_TOMSK_TOMSKVREMIA/variant.m3u8
@@ -199,10 +196,10 @@ https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV9-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/UEU1olt.png",VTV5 Tây Nam Bộ
 #EXTVLCOPT:http-user-agent="SmartSDK"
-https://vtvgolivesbd.vtvdigital.vn/08bb27b394bbebfff0ff0ff41517fc241602593234601/vtv5tnb.smil/chunklist_b1728000.m3u8
+http://gg.gg/vtv5tnbvtvgo
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/K1EzoBE.png",VTV5 Tây Nguyên
 #EXTVLCOPT:http-user-agent="SmartSDK"
-https://vtvgolivesbd.vtvdigital.vn/aaccd401bbf4dc48a73895d3ca8c87331602594004638/vtv5tn.smil/chunklist_b1728000.m3u8
+http://gg.gg/vtv5taynguyenvtvgo
 #------------------------HTV------------------------#
 #EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/8CnKosU.jpg",HTV1 | FPT Play
 #EXTVLCOPT:http-user-agent="SmartSDK"
@@ -399,16 +396,16 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NHANDAN-SD-ABR/HTV-ABR/NHANDAN-SD
 https://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Kênh Tin Tức" tvg-logo="https://i.imgur.com/cnbdjZr.png",Корпоративный канал
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_CORPCHANNELHD/bw2000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_CORPCHANNELHD/bw2000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Tin Tức" tvg-logo="https://i.imgur.com/cnbdjZr.png",Корпоративный канал HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_CORPCHANNELHD/bw5000000/variant.m3u8
-#EXTINF:-1 group-title="Kênh Tin Tức" tvg-logo="https://i.imgur.com/o4Julue.jpg",Известия
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_IZVESTIYAHD/bw2000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_CORPCHANNELHD/bw5000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Tin Tức" tvg-logo="https://i.imgur.com/o4Julue.jpg",Известия HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_IZVESTIYAHD/bw4000000/variant.m3u8
+#EXTINF:-1 group-title="Kênh Tin Tức" tvg-logo="https://i.imgur.com/o4Julue.jpg",Известия HD (Backup)
+#EXTVLCOPT:http-user-agent="SmartSDK"
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #------------------------SCTV------------------------#
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/bLu13AX.png",SCTV2
 #EXTVLCOPT:http-user-agent="SmartSDK"
@@ -896,16 +893,16 @@ https://livecdn.fptplay.net/qnetlive/warnertv_hls.smil/chunklist_b2500000.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
 #EXTINF:-1 group-title="Kênh Phim Quốc Tế" tvg-logo="https://i.imgur.com/OB0WDL7.png",TV 1000
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000HD/bw2000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000HD/bw2000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Phim Quốc Tế" tvg-logo="https://i.imgur.com/OB0WDL7.png",TV 1000 HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000HD/bw5000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000HD/bw5000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Phim Quốc Tế" tvg-logo="https://i.imgur.com/NGa7hSO.png",TV 1000 Action
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000ACTIONHD/bw2000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000ACTIONHD/bw2000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Phim Quốc Tế" tvg-logo="https://i.imgur.com/fHDYEVi.png",TV 1000 Action HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000ACTIONHD/bw5000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000ACTIONHD/bw5000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Phim Quốc Tế" tvg-logo="https://i.imgur.com/G6mJh6i.png",TV 1000 Русское кино
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000RUSSKOEKINOHD/bw2000000/variant.m3u8
@@ -914,13 +911,13 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000RUSSKOEKINOHD/bw2000000/varian
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000RUSSKOEKINOHD/bw5000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Phim Quốc Tế" tvg-logo="https://i.imgur.com/CNGIi13.png",Иллюзион+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ULLUSIONPLUS/bw2000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULLUSIONPLUS/bw2000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Phim Quốc Tế" tvg-logo="https://i.imgur.com/0KUYXwv.png",Русский Иллюзион
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANILLUSION/bw2000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANILLUSION/bw2000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Phim Quốc Tế" tvg-logo="https://i.imgur.com/2lqXcPj.png",TV XXI
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TVXXI/bw2000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVXXI/bw2000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Phim Quốc Tế" tvg-logo="https://i.imgur.com/4AdLabb.png",Zee TV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZEETV/bw2000000/variant.m3u8
@@ -970,9 +967,12 @@ https://livecdn.fptplay.net/world/newsasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/YTlPk6Q.png",France 24
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/world/france24_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/JuELCHc.png",TV5 Monde Asie
+#EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/JuELCHc.png",TV5 Monde Asie (FPT Play)
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/JuELCHc.png",TV5 Monde Asie (Russia)
+#EXTVLCOPT:http-user-agent="SmartSDK"
+https://tv5asieru-i.akamaihd.net/hls/live/651800/tv5asieru/index.m3u8
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/oUlVrf5.jpg",Russia Today
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RT/bw2000000/variant.m3u8
@@ -982,6 +982,9 @@ https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/oUlVrf5.jpg",Russia Today HD | Zabava
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C04_RTTVHD/bw4000000/variant.m3u8
+#EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/83rNRcq.png",RTД HD
+#EXTVLCOPT:http-user-agent="SmartSDK"
+http://rt-doc.secure.footprint.net:80/1101_2500Kb.m3u8
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/cjx78kt.png",National Geographic HD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
@@ -1124,28 +1127,28 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STSKIDSHD/bw4000000/variant.m3u8
 #-------------------GIẢI TRÍ-------------------#
 #EXTINF:-1 group-title="Kênh Giải Trí" tvg-logo="https://i.imgur.com/AcMe0L2.png",GAGSNETWORK
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_GAGSNETWORKHD/bw2000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_GAGSNETWORKHD/bw2000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Giải Trí" tvg-logo="https://i.imgur.com/AcMe0L2.png",GAGSNETWORK HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_GAGSNETWORKHD/bw5000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_GAGSNETWORKHD/bw5000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Giải Trí" tvg-logo="https://i.imgur.com/4jUEFQC.png",Зал суда
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ZALSUDAHD/bw2000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZALSUDAHD/bw2000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Giải Trí" tvg-logo="https://i.imgur.com/4jUEFQC.png",Зал суда HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ZALSUDAHD/bw5000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZALSUDAHD/bw5000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Giải Trí" tvg-logo="https://i.imgur.com/GfUboZY.png",Дикая охота SD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYAOHOTAHD/bw2000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYAOHOTAHD/bw2000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Giải Trí" tvg-logo="https://i.imgur.com/GfUboZY.png",Дикая охота HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYAOHOTAHD/bw5000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYAOHOTAHD/bw5000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Giải Trí" tvg-logo="https://i.imgur.com/GFeGtXS.png",Дикая рыбалка SD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYARYBALKAHD/bw2000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYARYBALKAHD/bw2000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Giải Trí" tvg-logo="https://i.imgur.com/GFeGtXS.png",Дикая рыбалка HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYARYBALKAHD/bw5000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DIKAYARYBALKAHD/bw5000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Giải Trí" tvg-logo="https://i.imgur.com/w3Wz5hC.png",Russian Travel Guide
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RTGHD/bw4000000/variant.m3u8
@@ -1192,10 +1195,10 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_CLUBBINGHD/bw2000000/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_CLUBBINGHD/bw4000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Ca Nhạc Quốc Tế" tvg-logo="https://i.imgur.com/YuQM6II.png",AIVA
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_AIVAHD/bw2000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_AIVAHD/bw2000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Ca Nhạc Quốc Tế" tvg-logo="https://i.imgur.com/YuQM6II.png",AIVA HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_AIVAHD/bw5000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_AIVAHD/bw5000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Ca Nhạc Quốc Tế" tvg-logo="https://i.imgur.com/gpWosop.png",MTV
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MTV/bw2000000/variant.m3u8
@@ -1214,12 +1217,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROPAPLUSTV/bw2000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Ca Nhạc Quốc Tế" tvg-logo="https://i.imgur.com/5DeaxX4.png",VH1
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_VH1EUROPEAN/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Kênh Ca Nhạc Quốc Tế" tvg-logo="https://i.imgur.com/IoPzcUh.png",Жара
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_JARAHD/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Kênh Ca Nhạc Quốc Tế" tvg-logo="https://i.imgur.com/IoPzcUh.png",Жара HD
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_JARAHD/bw4000000/variant.m3u8
 #------------------------SERIE A------------------------#
 #EXTINF:-1 group-title="Kênh Giải Bóng Đá Italia" tvg-logo="https://i.imgur.com/DMPQlOf.png",Serie A 1
 #EXTVLCOPT:http-user-agent="SmartSDK"
@@ -1257,7 +1254,7 @@ https://livecdn.fptplay.net/italyfootball/seriea10_2000.stream/chunklist.m3u8
 https://s37630.cdn.ngenix.net/hls/CH_UFCHD_HLS/bw2000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Thể Thao Tổng Hợp" tvg-logo="https://i.imgur.com/gdUJs4i.png",UFC ТВ HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://s37630.cdn.ngenix.net/hls/CH_UFCHD_HLS/bw5000000/variant.m3u8
+https://s37630.cdn.ngenix.net/hls/CH_UFCHD_HLS/bw3000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Thể Thao Tổng Hợp" tvg-logo="https://i.imgur.com/eM0IiDd.png",Матч! HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTVHD/bw4000000/variant.m3u8
@@ -1370,71 +1367,71 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_FUELHD/bw4000000/variant.m3u8
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREAM/bw2000000/variant.m3u8
 #------------------------HDTV------------------------#
-#EXTINF:-1 group-title="Kênh HDTV" tvg-logo="https://i.imgur.com/L7dCe1Y.png",EUROSPORT 4K (HD)
+#EXTINF:-1 group-title="Kênh HDTV" tvg-logo="http://i.imgur.com/L7dCe1Y.png",EUROSPORT 4K (HD)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8
-#EXTINF:-1 group-title="Kênh HDTV" tvg-logo="https://i.imgur.com/90ctEsa.png",Наша Сибирь HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8
+#EXTINF:-1 group-title="Kênh HDTV" tvg-logo="http://i.imgur.com/90ctEsa.png",Наша Сибирь HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/bw6000000/variant.m3u8
-#EXTINF:-1 group-title="Kênh HDTV" tvg-logo="https://i.imgur.com/pzKbWps.png",Love Nature HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/bw6000000/variant.m3u8
+#EXTINF:-1 group-title="Kênh HDTV" tvg-logo="http://i.imgur.com/pzKbWps.png",Love Nature HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
-#EXTINF:-1 group-title="Kênh HDTV" tvg-logo="https://i.imgur.com/RhfndP1.png",Ultra HD Cinema (HD)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
+#EXTINF:-1 group-title="Kênh HDTV" tvg-logo="http://i.imgur.com/RhfndP1.png",Ultra HD Cinema (HD)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8
-#EXTINF:-1 group-title="Kênh HDTV" tvg-logo="https://i.imgur.com/aCdX5v8.png",Кино UHD (HD)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8
+#EXTINF:-1 group-title="Kênh HDTV" tvg-logo="http://i.imgur.com/aCdX5v8.png",Кино UHD (HD)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOUHD/bw6000000/variant.m3u8
-#EXTINF:-1 group-title="Kênh HDTV" tvg-logo="https://i.imgur.com/glcaCKP.png",Сериал UHD (HD)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOUHD/bw6000000/variant.m3u8
+#EXTINF:-1 group-title="Kênh HDTV" tvg-logo="http://i.imgur.com/glcaCKP.png",Сериал UHD (HD)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SERIALUHD/bw6000000/variant.m3u8
-#EXTINF:-1 group-title="Kênh HDTV" tvg-logo="https://i.imgur.com/mDESnaX.png",ULTRA REX (HD)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SERIALUHD/bw6000000/variant.m3u8
+#EXTINF:-1 group-title="Kênh HDTV" tvg-logo="http://i.imgur.com/mDESnaX.png",ULTRA REX (HD)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8
 #------------------------QHD 2K------------------------#
-#EXTINF:-1 group-title="Kênh QHD 2K" tvg-logo="https://i.imgur.com/L7dCe1Y.png",EUROSPORT 4K (QHD)
+#EXTINF:-1 group-title="Kênh QHD 2K" tvg-logo="http://i.imgur.com/L7dCe1Y.png",EUROSPORT 4K (QHD)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw1000000/variant.m3u8
-#EXTINF:-1 group-title="Kênh QHD 2K" tvg-logo="https://i.imgur.com/90ctEsa.png",Наша Сибирь 4K (QHD)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw1000000/variant.m3u8
+#EXTINF:-1 group-title="Kênh QHD 2K" tvg-logo="http://i.imgur.com/90ctEsa.png",Наша Сибирь 4K (QHD)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/bw1000000/variant.m3u8
-#EXTINF:-1 group-title="Kênh QHD 2K" tvg-logo="https://i.imgur.com/pzKbWps.png",Love Nature QHD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/bw1000000/variant.m3u8
+#EXTINF:-1 group-title="Kênh QHD 2K" tvg-logo="http://i.imgur.com/pzKbWps.png",Love Nature QHD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw1000000/variant.m3u8
-#EXTINF:-1 group-title="Kênh QHD 2K" tvg-logo="https://i.imgur.com/RhfndP1.png",Ultra HD Cinema (QHD)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw1000000/variant.m3u8
+#EXTINF:-1 group-title="Kênh QHD 2K" tvg-logo="http://i.imgur.com/RhfndP1.png",Ultra HD Cinema (QHD)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw1000000/variant.m3u8
-#EXTINF:-1 group-title="Kênh QHD 2K" tvg-logo="https://i.imgur.com/aCdX5v8.png",Кино UHD (QHD)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw1000000/variant.m3u8
+#EXTINF:-1 group-title="Kênh QHD 2K" tvg-logo="http://i.imgur.com/aCdX5v8.png",Кино UHD (QHD)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOUHD/bw1000000/variant.m3u8
-#EXTINF:-1 group-title="Kênh QHD 2K" tvg-logo="https://i.imgur.com/glcaCKP.png",Сериал UHD (QHD)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOUHD/bw1000000/variant.m3u8
+#EXTINF:-1 group-title="Kênh QHD 2K" tvg-logo="http://i.imgur.com/glcaCKP.png",Сериал UHD (QHD)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SERIALUHD/bw1000000/variant.m3u8
-#EXTINF:-1 group-title="Kênh QHD 2K" tvg-logo="https://i.imgur.com/mDESnaX.png",ULTRA REX (QHD)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SERIALUHD/bw1000000/variant.m3u8
+#EXTINF:-1 group-title="Kênh QHD 2K" tvg-logo="http://i.imgur.com/mDESnaX.png",ULTRA REX (QHD)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw1000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw1000000/variant.m3u8
 #------------------------UHD 4K------------------------#
-#EXTINF:-1 group-title="Kênh UHD 4K" tvg-logo="https://i.imgur.com/L7dCe1Y.png",EUROSPORT 4K (UHD)
+#EXTINF:-1 group-title="Kênh UHD 4K" tvg-logo="http://i.imgur.com/L7dCe1Y.png",EUROSPORT 4K (UHD)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Kênh UHD 4K" tvg-logo="https://i.imgur.com/90ctEsa.png",Наша Сибирь 4K
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Kênh UHD 4K" tvg-logo="http://i.imgur.com/90ctEsa.png",Наша Сибирь 4K
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Kênh UHD 4K" tvg-logo="https://i.imgur.com/pzKbWps.png",Love Nature 4K
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Kênh UHD 4K" tvg-logo="http://i.imgur.com/pzKbWps.png",Love Nature 4K
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Kênh UHD 4K" tvg-logo="https://i.imgur.com/RhfndP1.png",Ultra HD Cinema (UHD)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Kênh UHD 4K" tvg-logo="http://i.imgur.com/RhfndP1.png",Ultra HD Cinema (UHD)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Kênh UHD 4K" tvg-logo="https://i.imgur.com/aCdX5v8.png",Кино UHD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Kênh UHD 4K" tvg-logo="http://i.imgur.com/aCdX5v8.png",Кино UHD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOUHD/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Kênh UHD 4K" tvg-logo="https://i.imgur.com/glcaCKP.png",Сериал UHD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOUHD/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Kênh UHD 4K" tvg-logo="http://i.imgur.com/glcaCKP.png",Сериал UHD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SERIALUHD/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Kênh UHD 4K" tvg-logo="https://i.imgur.com/mDESnaX.png",ULTRA REX (UHD)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SERIALUHD/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Kênh UHD 4K" tvg-logo="http://i.imgur.com/mDESnaX.png",ULTRA REX (UHD)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw2000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw2000000/variant.m3u8
 #------------------------Kênh 18+------------------------#
 #EXTINF:-1 group-title="Kênh 18+" tvg-logo="https://i.imgur.com/TpzGNAg.png",Brazzers TV Europe
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
