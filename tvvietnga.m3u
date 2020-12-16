@@ -985,6 +985,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_C04_RTTVHD/bw4000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/83rNRcq.png",RTД HD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://rt-doc.secure.footprint.net:80/1101_2500Kb.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/rfEGcpB.png",CGTN Russia
+#EXTVLCOPT:http-user-agent="SmartSDK"
+https://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/cjx78kt.png",National Geographic HD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
