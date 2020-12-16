@@ -201,7 +201,7 @@ http://gg.gg/vtv5tnbvtvgo
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://gg.gg/vtv5taynguyenvtvgo
 #------------------------HTV------------------------#
-#EXTINF:-1 aspect-ratio="16:9" group-title="HTV" tvg-logo="https://i.imgur.com/8CnKosU.jpg",HTV1 | FPT Play
+#EXTINF:-1 aspect-ratio="16:9" group-title="HTV" tvg-logo="https://i.imgur.com/8CnKosU.jpg",HTV1
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="HTV" tvg-logo="https://i.imgur.com/WQHqOFj.jpg",HTV2 HD [720p]
@@ -275,9 +275,6 @@ http://livecdn.fptplay.net/hda/htvcthuanviethd_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://livecdn.fptplay.net/sdc/fbnchd_2000.stream/chunklist.m3u8
 #------------------------VTC------------------------#
-#EXTINF:-1 aspect-ratio="16:9" group-title="VTC" tvg-logo="https://imgur.com/Pc2ZuX0.png",VTC1 SD
-#EXTVLCOPT:http-user-agent="SmartSDK"
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTC1-SD-720p/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="VTC" tvg-logo="https://imgur.com/Pc2ZuX0.png",VTC1 HD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://livecdn.fptplay.net/sdb/vtc1_hls.smil/chunklist_b2500000.m3u8
@@ -400,6 +397,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_CORPCHANNELHD/bw2000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Tin Tức" tvg-logo="https://i.imgur.com/cnbdjZr.png",Корпоративный канал HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://zabava-htlive.cdn.ngenix.net/hls/CH_CORPCHANNELHD/bw5000000/variant.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Tin Tức" tvg-logo="https://i.imgur.com/o4Julue.jpg",Известия
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_IZVESTIYAHD/bw2000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Tin Tức" tvg-logo="https://i.imgur.com/o4Julue.jpg",Известия HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C03_IZVESTIYAHD/bw4000000/variant.m3u8
@@ -493,16 +493,13 @@ http://livecdn.fptplay.net/sdc/binhphuoc2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/6Fije4Q.png",BPTV2 - Home TV HD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://mediatech.vncdn.vn/bptvlive/tv2live.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/DpaYDb2.png",BTV - Truyền hình Bình Thuận SD | FPT Play
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/DpaYDb2.png",BTV - Truyền hình Bình Thuận SD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://livecdn.fptplay.net/sdc/binhthuan_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/DpaYDb2.png",BTV - Truyền hình Bình Thuận HD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://202.43.109.142:1935/thbttv/bttv/chunklist.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/gqnuDmL.jpg",CTV - Truyền hình Cà Mau HD | Gốc
-#EXTVLCOPT:http-user-agent="SmartSDK"
-http://tv.ctvcamau.vn/live/tv/tv.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/gqnuDmL.jpg",CTV - Truyền hình Cà Mau HD | FPT Play
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/gqnuDmL.jpg",CTV - Truyền hình Cà Mau HD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/sFEBJSE.png",THTPCT - Truyền hình Cần Thơ SD
@@ -550,10 +547,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DONGTHAP-SD-ABR/HTV-ABR/DONGTHAP-S
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/Q5sVQNt.png",THĐT2 - Truyền hình Miền Tây
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://202.43.109.145:1935/thdt2/thdt2/chunklist.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/19Wmw47.png",THGL - Truyền hình Gia Lai | Gốc
-#EXTVLCOPT:http-user-agent="SmartSDK"
-http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/19Wmw47.png",THGL - Truyền hình Gia Lai | FPT Play
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/19Wmw47.png",THGL - Truyền hình Gia Lai
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/iKZnv33.png",HGTV - Truyền hình Hà Giang
@@ -958,7 +952,7 @@ http://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/U3GlkzU.png",DW Deutsch
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DEUTSCHEWELLE/bw2000000/variant.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/iIrAEGx.png",Arirang | FPT Play
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/iIrAEGx.png",Arirang
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://livecdn.fptplay.net/world/arirang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/eyzGJhD.png",CNA
@@ -982,9 +976,15 @@ https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/oUlVrf5.jpg",Russia Today HD | Zabava
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C04_RTTVHD/bw4000000/variant.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/83rNRcq.png",RTД HD
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/83rNRcq.png",RTД HD (English)
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://rt-doc.secure.footprint.net:80/1101_2500Kb.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/83rNRcq.png",RTД (Russian)
+#EXTVLCOPT:http-user-agent="SmartSDK"
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RTDHD/bw2000000/variant.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/83rNRcq.png",RTД HD (Russian)
+#EXTVLCOPT:http-user-agent="SmartSDK"
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RTDHD/bw4000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/rfEGcpB.png",CGTN Russia
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://liveru.cgtn.com/1000r/prog_index.m3u8
