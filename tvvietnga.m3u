@@ -3,7 +3,7 @@
 #------------------------Kênh Nga Ngố------------------------#
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/zGGqlZt.png",Первый канал [+4] (Красноярск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://182.73.122.74:10005/bysid/414
+http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 [+4] (Красноярск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
