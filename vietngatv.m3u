@@ -3,7 +3,7 @@
 #------------------------Kênh Nga Ngố------------------------#
 #EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/zGGqlZt.png",Первый канал (+4)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://rt-sib-galt-htlive-lb.cdn.ngenix.net/hls/CH_R05_1TV/variant.m3u8
+http://182.73.122.74:10005/bysid/414
 #EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 (+4)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/bw2000000/variant.m3u8
