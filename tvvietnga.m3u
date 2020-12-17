@@ -3,7 +3,7 @@
 #------------------------Kênh Nga Ngố------------------------#
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/zGGqlZt.png",Первый канал [+4] (Красноярск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
+http://182.73.122.74:10005/bysid/414
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 [+4] (Красноярск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
@@ -141,7 +141,7 @@ http://rt-sib-kem-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KEM_GTRK/variant.m
 http://rt-sib-tomsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_TOMSK_TOMSKVREMIA/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/MwOBMqI.jpg",Первый канал HD [+4]
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://182.73.122.74:10005/bysid/414
+http://182.73.122.74:10003/bysid/904
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/BdyVZAd.png",ВЕСТИ FM | Оригинал
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_64kbps
