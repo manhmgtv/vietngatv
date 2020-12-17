@@ -139,6 +139,9 @@ https://rt-sib-kem-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KEM_GTRK/variant.
 #EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/7HXvaik.jpg",Томское время (Томск) (HD)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://rt-sib-tomsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_TOMSK_TOMSKVREMIA/variant.m3u8
+#EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/MwOBMqI.jpg",Первый канал HD [+4]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://182.73.122.74:10005/bysid/414
 #EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/BdyVZAd.png",ВЕСТИ FM | Оригинал
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_64kbps
@@ -976,15 +979,15 @@ https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/oUlVrf5.jpg",Russia Today HD | Zabava
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://zabava-htlive.cdn.ngenix.net/hls/CH_C04_RTTVHD/bw4000000/variant.m3u8
-#EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/83rNRcq.png",RTД HD (English)
-#EXTVLCOPT:http-user-agent="SmartSDK"
-http://rt-doc.secure.footprint.net:80/1101_2500Kb.m3u8
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/83rNRcq.png",RTД (Russian)
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RTDHD/bw2000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/83rNRcq.png",RTД HD (Russian)
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RTDHD/bw4000000/variant.m3u8
+#EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/83rNRcq.png",RTД HD (Backup)
+#EXTVLCOPT:http-user-agent="SmartSDK"
+http://rt-doc.secure.footprint.net:80/1101_2500Kb.m3u8
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/rfEGcpB.png",CGTN Russia
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://liveru.cgtn.com/1000r/prog_index.m3u8
@@ -1118,9 +1121,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_C01_NICKELODEONHD/bw4000000/variant.
 #EXTINF:-1 group-title="Kênh Thiếu Nhi" tvg-logo="https://i.imgur.com/5pacE4R.png",Nick Jr (Tiếng Nga)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NICKJUNIOR/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Kênh Thiếu Nhi" tvg-logo="https://i.imgur.com/Ee2jhT0.png",Детский Мир
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DETSKIJMIR/bw2000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Thiếu Nhi" tvg-logo="https://i.imgur.com/BrcZ09P.png",СТС Kids
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSKIDSHD/bw2000000/variant.m3u8
@@ -1254,10 +1254,10 @@ https://livecdn.fptplay.net/italyfootball/seriea10_2000.stream/chunklist.m3u8
 #------------------------KÊNH THỂ THAO------------------------#
 #EXTINF:-1 group-title="Kênh Thể Thao Tổng Hợp" tvg-logo="https://i.imgur.com/gdUJs4i.png",UFC ТВ
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://s37630.cdn.ngenix.net/hls/CH_UFCHD_HLS/bw2000000/variant.m3u8
+http://s37630.cdn.ngenix.net/hls/CH_UFCHD_HLS/bw2000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Thể Thao Tổng Hợp" tvg-logo="https://i.imgur.com/gdUJs4i.png",UFC ТВ HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://s37630.cdn.ngenix.net/hls/CH_UFCHD_HLS/bw3000000/variant.m3u8
+http://s37630.cdn.ngenix.net/hls/CH_UFCHD_HLS/bw3000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Thể Thao Tổng Hợp" tvg-logo="https://i.imgur.com/eM0IiDd.png",Матч! HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTVHD/bw4000000/variant.m3u8
