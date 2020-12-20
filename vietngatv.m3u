@@ -3,7 +3,7 @@
 #------------------------Kênh Nga Ngố------------------------#
 #EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/zGGqlZt.png",Первый канал (+4)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://182.73.122.74:10005/bysid/414
+https://rt-sib-tomsk-htlive-lb.cdn.ngenix.net/hls/CH_R03_1TV_TOMSK_OBL/variant.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 (+4)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/bw2000000/variant.m3u8
@@ -139,9 +139,9 @@ https://rt-sib-kem-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KEM_GTRK/variant.
 #EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/7HXvaik.jpg",Томское время (Томск) (HD)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://rt-sib-tomsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_TOMSK_TOMSKVREMIA/variant.m3u8
-#EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/MwOBMqI.jpg",Первый канал HD (+4)
+#EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/Gk0LJ17.png",Россия 1 HD
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://spacetv.in/stream/DIPK8H19CP8/233.m3u8
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/BdyVZAd.png",ВЕСТИ FM | Оригинал
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_64kbps
@@ -952,9 +952,6 @@ https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/U3GlkzU.png",DW English
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/U3GlkzU.png",DW Deutsch
-#EXTVLCOPT:http-user-agent="SmartSDK"
-http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/iIrAEGx.png",Arirang
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/world/arirang_hls.smil/chunklist_b2500000.m3u8
