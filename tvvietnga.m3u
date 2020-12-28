@@ -64,9 +64,6 @@ http://rt-sib-nsk-htlive-lb.cdn.ngenix.net/hls/CH_R04_MUZTV/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/tHZJ8H5.png",Че [+4] (Красноярск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/bUPin0y.png",СТС Love [+2] (Урал)
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/bw2000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/nXI0mKz.png",Ю [+4] (Красноярск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
@@ -457,6 +454,9 @@ http://livecdn.fptplay.net/hda/btv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/hf1hqrS.jpg",BTV2 - Truyền hình Bình Dương 2 HD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://livecdn.fptplay.net/hda/btv2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Địa phương" tvg-logo="http://download.truongquocvi.com/logo/btv3%20%28binh%20duong%203%29.png",BTV3 - Truyền hình Bình Dương 3 HD
+#EXTVLCOPT:http-user-agent="SmartSDK"
+http://42.113.105.144:4022/udp/225.1.2.22:30120
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/pbyLu9c.png",BTV4 - Truyền hình Bình Dương 4 HD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://livecdn.fptplay.net/hda/btv4hd_hls.smil/chunklist_b2500000.m3u8
