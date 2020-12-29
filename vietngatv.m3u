@@ -82,9 +82,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/bw2000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/M14MmYk.png",7 канал (Красноярск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R13_RENTV/variant.m3u8
-#EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/PiilZYv.png",8 канал Красноярский край (Абакан)
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://rt-sib-abakan-htlive-lb.cdn.ngenix.net/hls/CH_R02_8CHANNEL_ABAKAN/variant.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/7QQ9Y99.png",8 канал (Новосибирск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8
@@ -229,6 +226,9 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u
 #EXTINF:-1 group-title="HTVC" tvg-logo="https://i.imgur.com/EAv5N7c.png",HTVC Gia Đình
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/hda/htvcgiadinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="HTVC" tvg-logo="https://i.imgur.com/EAv5N7c.png",HTVC Gia Đình HD
+#EXTVLCOPT:http-user-agent="SmartSDK"
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/chunks.m3u8
 #EXTINF:-1 group-title="HTVC" tvg-logo="https://i.imgur.com/pTuBwDS.png",HTVC Phụ Nữ
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/hda/htvcphunu_2000.stream/chunklist.m3u8
