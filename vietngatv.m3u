@@ -179,9 +179,6 @@ https://subs-livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/GDP5zVb.png",VTV9 HD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/UEU1olt.png",VTV5 Tây Nam Bộ
-#EXTVLCOPT:http-user-agent="SmartSDK"
-http://gg.gg/vtv5tnbvtvgo
 #------------------------HTV------------------------#
 #EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/8CnKosU.jpg",HTV1
 #EXTVLCOPT:http-user-agent="SmartSDK"
@@ -691,6 +688,9 @@ http://mediatech.vncdn.vn/tbtvlive/tv1live.m3u8
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/NmObKjO.png",TN1 - Truyền hình Thái Nguyên HD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/sdc/thainguyen_hls.smil/chunklist_b2800000.m3u8
+#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://imgur.com/v45geuK.png",TN2 _ TH Thái Nguyên
+#EXTVLCOPT:http-user-agent="SmartSDK"
+http://14.169.67.230:8889/rtp/232.84.3.123:9168
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/dZjhLJd.png",TTV - Truyền hình Thanh Hóa SD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/sda/thanhhoa_hls.smil/chunklist_b2500000.m3u8
