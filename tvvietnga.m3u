@@ -722,7 +722,7 @@ http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/Uq28aOq.png",Ю [+4] (Красноярск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/7FMJlWF.png",Дисней [+4] (Красноярск)
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/n04YEW3.png",Дисней [+4] (Красноярск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R02_DISNEYCHANNEL/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/6zyqdbr.png",ТНТ4 [+4] (Красноярск)
@@ -767,7 +767,7 @@ http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_NTN24/variant.m3u
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/M8xKe3A.png",Прима ТВ (Красноярск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R11_STS/variant.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/TLebQRy.png",ОТС (Новосибирск) (HD)
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/QkeAlAE.png",ОТС (Новосибирск) (HD)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://rt-sib-nsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/hbDcK5l.png",РБК ТВ (Новосибирск)
