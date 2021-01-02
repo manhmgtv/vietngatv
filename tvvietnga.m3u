@@ -73,7 +73,7 @@ http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R02_DISNEYCHANNEL/variant.m3u
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/6zyqdbr.png",ТНТ4 [+4] (Красноярск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R02_TNT4_4/variant.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/WE5yQQg.png",2x2 [+4] (Красноярск)
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/WE5yQQg.png",2х2 [+4] (Красноярск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R04_2X2/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/jxX5BAK.png",Супер [+4] (Сибирь)
