@@ -27,7 +27,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/bw2000000/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/bw2000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/5X119Eb.png",ОТР
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/bw2000000/variant.m3u8
+http://rt-sib-galt-htlive-lb.cdn.ngenix.net/hls/CH_R02_OTR/variant.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/CQzxLCm.png",ТВЦ (+4)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/bw2000000/variant.m3u8
