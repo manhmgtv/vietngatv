@@ -568,6 +568,9 @@ https://livecdn.fptplay.net/sda/haugiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/ZaIE9WA.png",HBTV - Truyền hình Hòa Bình
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/ZaIE9WA.png",HBTV - Truyền hình Hòa Bình HD
+#EXTVLCOPT:http-user-agent="SmartSDK"
+https://livecdn.fptplay.net/sda/hoabinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/rIV7Na3.png",HY - Truyền hình Hưng Yên
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/sdc/hungyen_2000.stream/chunklist.m3u8
@@ -1193,9 +1196,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUTVHD/bw4000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Ca Nhạc Quốc Tế" tvg-logo="https://i.imgur.com/nWOuusr.png",Europa Plus TV
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROPAPLUSTV/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Kênh Ca Nhạc Quốc Tế" tvg-logo="https://i.imgur.com/5DeaxX4.png",VH1
-#EXTVLCOPT:http-user-agent="SmartSDK"
-https://zabava-htlive.cdn.ngenix.net/hls/CH_VH1EUROPEAN/bw2000000/variant.m3u8
 #------------------------SERIE A------------------------#
 #EXTINF:-1 group-title="Kênh Giải Bóng Đá Italia" tvg-logo="https://i.imgur.com/DMPQlOf.png",Serie A 1
 #EXTVLCOPT:http-user-agent="SmartSDK"
