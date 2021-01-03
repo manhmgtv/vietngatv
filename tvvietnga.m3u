@@ -570,7 +570,7 @@ http://livecdn.fptplay.net/sda/haugiang_hls.smil/chunklist_b2500000.m3u8
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/ZaIE9WA.png",HBTV - Truyền hình Hòa Bình HD
 #EXTVLCOPT:http-user-agent="SmartSDK"
-https://livecdn.fptplay.net/sda/hoabinh_hls.smil/chunklist_b2500000.m3u8
+http://livecdn.fptplay.net/sda/hoabinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/rIV7Na3.png",HY - Truyền hình Hưng Yên
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://livecdn.fptplay.net/sdc/hungyen_2000.stream/chunklist.m3u8
