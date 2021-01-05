@@ -84,7 +84,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/bw2000000/variant.m3u8
 https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R13_RENTV/variant.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/7QQ9Y99.png",8 канал (Новосибирск)
 #EXTVLCOPT:http-user-agent="SmartSDK"
-https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8
+https://rt-sib-nsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/wfmHkcY.png",8 канал Красноярский край (Красноярск)
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R02_8CHANNEL/variant.m3u8
@@ -108,7 +108,7 @@ https://rt-sib-kem-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KEM_GTRK/variant.
 https://rt-sib-nsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/Z3Q0xTf.png",НТН24 (Новосибирск)
 #EXTVLCOPT:http-user-agent="SmartSDK"
-https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_NTN24/variant.m3u8
+https://rt-sib-nsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_NTN24/variant.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/M8xKe3A.png",Прима ТВ (Красноярск)
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R11_STS/variant.m3u8
@@ -117,13 +117,13 @@ https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R11_STS/variant.m3u8
 https://rt-sib-nsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/hbDcK5l.png",РБК ТВ (Новосибирск)
 #EXTVLCOPT:http-user-agent="SmartSDK"
-https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_RBC/variant.m3u8
+https://rt-sib-nsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_RBC/variant.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/ruJHgoX.png",Республиканская телевизионная сеть (Абакан)
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://rt-sib-abakan-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/variant.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/uPCfteS.png",ТВ-7 (Абакан)
 #EXTVLCOPT:http-user-agent="SmartSDK"
-https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
+https://rt-sib-abakan-htlive-lb.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/rWJRJuk.png",ТК Центр (Красноярск) (HD)
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_CENTRKRSN/variant.m3u8
