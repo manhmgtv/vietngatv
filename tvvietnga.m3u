@@ -436,10 +436,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_CORPCHANNELHD/bw5000000/variant.m3u8?
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_IZVESTIYAHD/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Tin Tức" tvg-logo="https://i.imgur.com/o4Julue.jpg",Известия HD
 #EXTVLCOPT:http-user-agent="SmartSDK"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_IZVESTIYAHD/bw4000000/variant.m3u8?version=2
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Tin Tức" tvg-logo="https://i.imgur.com/o4Julue.jpg",Известия HD [Zabava]
 #EXTVLCOPT:http-user-agent="SmartSDK"
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_IZVESTIYAHD/bw4000000/variant.m3u8?version=2
 #------------------------Other------------------------#
 #EXTINF:-1 aspect-ratio="16:9" group-title="Other" tvg-logo="https://i.imgur.com/bLu13AX.png",SCTV2
 #EXTVLCOPT:http-user-agent="SmartSDK"
