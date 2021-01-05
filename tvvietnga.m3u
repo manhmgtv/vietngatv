@@ -779,7 +779,7 @@ http://mediatech.vncdn.vn/tbtvlive/tv1live.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/NmObKjO.png",TN1 - Truyền hình Thái Nguyên HD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://livecdn.fptplay.net/sdc/thainguyen_hls.smil/chunklist_b2800000.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Địa phương" tvg-logo="https://imgur.com/v45geuK.png",TN2 _ TH Thái Nguyên
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Địa phương" tvg-logo="https://imgur.com/v45geuK.png",TN2 - Truyền hình Thái Nguyên
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://vnptudpxy.trialsonserver.com:8889/rtp/232.84.3.123:9168
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/dZjhLJd.png",TTV - Truyền hình Thanh Hóa SD
