@@ -453,10 +453,10 @@ http://vnptudpxy.trialsonserver.com:8889/rtp/232.84.1.32:8166
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/zzMvK23.png",SCTV8 - VITV (240p)
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/v08VbZS.png",HiTV
+#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/v08VbZS.png",HanoiCab - HiTV
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://vnptudpxy.trialsonserver.com:8889/rtp/232.84.1.55:8310
-#EXTINF:-1 group-title="Other" tvg-logo="http://i.imgur.com/7uqtQEM.png",HanoiCab2 YouTV
+#EXTINF:-1 group-title="Other" tvg-logo="http://i.imgur.com/7uqtQEM.png",HanoiCab2 - YouTV
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://fptudpxy.trialsonserver.com:2406/udp/225.1.1.207:30120
 #------------------------Sự Kiện-----------------------#
