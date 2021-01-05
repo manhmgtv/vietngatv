@@ -4,7 +4,7 @@
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/zGGqlZt.png",Первый канал [+4] (Красноярск)
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 - ГТРК Красноярск [+4] (Красноярск)
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 - ГТРК Красноярск [+4]
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8?version=2
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/eM0IiDd.png",Матч! ТВ (Красноярск)
@@ -19,7 +19,7 @@ http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8?version=2
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/i4hHXeO.png",Россия K [+4] (Красноярск)
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/e3wm4xi.png",Россия 24 - ГТРК Красноярск (Красноярск)
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/e3wm4xi.png",Россия 24 - ГТРК Красноярск
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8?version=2
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/p4JmI7J.png",Карусель [+4] (Красноярск)
