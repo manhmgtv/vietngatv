@@ -1417,13 +1417,13 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANNIGHT/bw2000000/variant.m3u8?v
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BABESTVHD/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh 18+" tvg-logo="https://i.imgur.com/JhTJz8P.png",BABES TV HD
 #EXTVLCOPT:http-user-agent="SmartSDK"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_BABESTVHD/bw5000000/variant.m3u8?version=2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_BABESTVHD/bw4000000/variant.m3u8?version=2
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh 18+" tvg-logo="https://i.imgur.com/v1uWyYo.png",Шалун
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SHALUNTVHD/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh 18+" tvg-logo="https://i.imgur.com/v1uWyYo.png",Шалун HD
 #EXTVLCOPT:http-user-agent="SmartSDK"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SHALUNTVHD/bw5000000/variant.m3u8?version=2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SHALUNTVHD/bw4000000/variant.m3u8?version=2
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh 18+" tvg-logo="https://i.imgur.com/PvSyZzL.png",O-la-la
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OLALA/bw2000000/variant.m3u8?version=2
@@ -1432,4 +1432,4 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_OLALA/bw2000000/variant.m3u8?version=
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EXXXOTICAHD/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh 18+" tvg-logo="https://i.imgur.com/FLS6PB6.png",EXXXOTICA HD
 #EXTVLCOPT:http-user-agent="SmartSDK"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EXXXOTICAHD/bw5000000/variant.m3u8?version=2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EXXXOTICAHD/bw4000000/variant.m3u8?version=2
