@@ -216,7 +216,7 @@ http://vnptudpxy.trialsonserver.com:8889/rtp/232.84.1.241:9420
 http://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="HTV" tvg-logo="https://i.imgur.com/WQHqOFj.jpg",HTV2 SD
 #EXTVLCOPT:http-user-agent="SmartSDK"
-http://livecdn.fptplay.net/hda/htv2hd_hls.smil/chunklist_b2500000.m3u8
+http://vnptudpxy.trialsonserver.com:8889/rtp/232.84.1.36:8190
 #EXTINF:-1 aspect-ratio="16:9" group-title="HTV" tvg-logo="https://i.imgur.com/WQHqOFj.jpg",HTV2 HD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://livecdn.fptplay.net/hda/htv2hd_hls.smil/chunklist_b2500000.m3u8
