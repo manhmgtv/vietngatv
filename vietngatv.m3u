@@ -70,15 +70,9 @@ https://zabava-htlive-lb.cdn.ngenix.net/hls/CH_U_4/bw2000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/n04YEW3.png",Дисней (+4)
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://zabava-htlive-lb.cdn.ngenix.net/hls/CH_DISNEY_4/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/n04YEW3.png",Дисней (+4) (Новосибирск)
-#EXTVLCOPT:http-user-agent="SmartSDK"
-https://rt-sib-nsk-htlive-lb.cdn.ngenix.net/hls/CH_R02_DISNEYCHANNEL/variant.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/6zyqdbr.png",ТНТ4 (+4)
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://zabava-htlive-lb.cdn.ngenix.net/hls/CH_TNT4_4/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/6zyqdbr.png",ТНТ4 (+4) (Новосибирск)
-#EXTVLCOPT:http-user-agent="SmartSDK"
-https://rt-sib-nsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_TNT4NSK/variant.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/WE5yQQg.png",2х2 (+4)
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://zabava-htlive-lb.cdn.ngenix.net/hls/CH_2X2_4/bw2000000/variant.m3u8
@@ -734,6 +728,9 @@ http://mediatech.vncdn.vn/nbtvlive/tv1live.m3u8
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/9bFk5Lj.png",NTV - Truyền hình Ninh Thuận
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/sda/ninhthuan_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/QFDB4wh.png",PTV - Truyền hình Phú Thọ SD
+#EXTVLCOPT:http-user-agent="SmartSDK"
+http://vnptudpxy.trialsonserver.com:8889/rtp/232.84.2.95:9030
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/QFDB4wh.png",PTV - Truyền hình Phú Thọ HD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/sda/phutho_hls.smil/chunklist_b2500000.m3u8
@@ -743,6 +740,9 @@ http://113.161.4.48:8080/phuyen/tv.m3u8
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/DJsuiHq.png",PTP - Truyền hình Phú Yên HD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/qHcbY51.png",QBTV - Truyền hình Quảng Bình SD
+#EXTVLCOPT:http-user-agent="SmartSDK"
+http://vnptudpxy.trialsonserver.com:8889/rtp/232.84.2.98:9042
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/qHcbY51.png",QBTV - Truyền hình Quảng Bình HD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/sda/quangbinh_hls.smil/chunklist_b2500000.m3u8
