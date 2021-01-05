@@ -1,9 +1,9 @@
 #EXTM3U FPTPlay, HPlus, Mediatech, Russia Link Download SimpleTV: https://yadi.sk/d/Optmkw0eTZLLPg
 
 #------------------------Kênh Nga Ngố------------------------#
-#EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/zGGqlZt.png",Первый канал (1TVRUS ASIA)
+#EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/zGGqlZt.png",Первый канал (+4)
 #EXTVLCOPT:http-user-agent="SmartSDK"
-https://bom.to/r12Kkk5y
+https://zabava-htlive-lb.cdn.ngenix.net/hls/CH_1TVSD_4/bw2000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 (+4)
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://zabava-htlive-lb.cdn.ngenix.net/hls/CH_RUSSIA1_4/bw2000000/variant.m3u8
