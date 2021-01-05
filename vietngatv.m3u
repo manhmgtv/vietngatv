@@ -1230,10 +1230,10 @@ https://livecdn.fptplay.net/italyfootball/seriea10_2000.stream/chunklist.m3u8
 #------------------------KÊNH THỂ THAO------------------------#
 #EXTINF:-1 group-title="Kênh Thể Thao Tổng Hợp" tvg-logo="https://i.imgur.com/gdUJs4i.png",UFC ТВ
 #EXTVLCOPT:http-user-agent="SmartSDK"
-https://s37630.cdn.ngenix.net/hls/CH_UFCHD_HLS/bw2000000/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_UFCHD_HLS/bw2000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Thể Thao Tổng Hợp" tvg-logo="https://i.imgur.com/gdUJs4i.png",UFC ТВ HD
 #EXTVLCOPT:http-user-agent="SmartSDK"
-https://s37630.cdn.ngenix.net/hls/CH_UFCHD_HLS/bw3000000/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_UFCHD_HLS/bw3000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Thể Thao Tổng Hợp" tvg-logo="https://i.imgur.com/eM0IiDd.png",Матч! HD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://zabava-htlive-lb.cdn.ngenix.net/hls/CH_MATCHTVHD/bw4000000/variant.m3u8
