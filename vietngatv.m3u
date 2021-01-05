@@ -521,7 +521,7 @@ http://vnptudpxy.trialsonserver.com:8889/rtp/232.84.1.137:8796
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/hf1hqrS.jpg",BTV2 - Truyền hình Bình Dương 2 HD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/hda/btv2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/hf1hqrS.jpg",BTV3 - Truyền hình Bình Dương 3 HD
+#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="http://download.truongquocvi.com/logo/btv3%20%28binh%20duong%203%29.png",BTV3 - Truyền hình Bình Dương 3 HD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://fptudpxy.trialsonserver.com:2406/udp/225.1.2.22:30120
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/pbyLu9c.png",BTV4 - Truyền hình Bình Dương 4 SD
