@@ -79,9 +79,6 @@ https://zabava-htlive-lb.cdn.ngenix.net/hls/CH_2X2_4/bw2000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/jxX5BAK.png",Супер (+4)
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://zabava-htlive-lb.cdn.ngenix.net/hls/CH_SUPER_4/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/M14MmYk.png",7 канал (Красноярск)
-#EXTVLCOPT:http-user-agent="SmartSDK"
-https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R13_RENTV/variant.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/7QQ9Y99.png",8 канал (Новосибирск)
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://rt-sib-nsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8
@@ -94,6 +91,9 @@ https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R02_8CHANNEL/variant.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/TjCmNqo.png",Афонтово (Красноярск) (HD)
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_AFONTOVO/variant.m3u8
+#EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/3KkdT0r.png",СЕДЬМОЙ КАНАЛ (Красноярск)
+#EXTVLCOPT:http-user-agent="SmartSDK"
+https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R13_RENTV/variant.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/B8TnPMk.png",СТС-Мир (Новосибирск)
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_TSM/variant.m3u8
@@ -133,6 +133,9 @@ https://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_CENTRKRSN/variant.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/jpAezb1.png",Толк (Барнаул)
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://rt-sib-bul-htlive-lb.cdn.ngenix.net/hls/CH_R01_TOLK/variant.m3u8
+#EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/7HXvaik.jpg",Томское время (Томск) (SD)
+#EXTVLCOPT:http-user-agent="SmartSDK"
+http://46.166.193.199:4022/udp/233.173.129.40:1234
 #EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/7HXvaik.jpg",Томское время (Томск) (HD)
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://rt-sib-tomsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_TOMSK_TOMSKVREMIA/variant.m3u8
@@ -188,58 +191,55 @@ https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
 #------------------------VTVCab------------------------#
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://i.imgur.com/fVDS1c7.jpg",VTVCab1 - Vie Giải Trí
 #EXTVLCOPT:http-user-agent="SmartSDK"
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab1_SD.smil/chunklist.m3u8
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab1_SD.smil/chunklist_w1590455291_b2692000.m3u8
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://i.imgur.com/WkuhkZD.jpg",VTVCab2 - Phim Việt
 #EXTVLCOPT:http-user-agent="SmartSDK"
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab2_SD.smil/chunklist.m3u8
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab2_SD.smil/chunklist_w572040416_b2692000.m3u8
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://imgur.com/QfDeJpD.png",VTVCab3 - Thể Thao TV
 #EXTVLCOPT:http-user-agent="SmartSDK"
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab3_SD.smil/chunklist.m3u8
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab3_SD.smil/chunklist_b2692000.m3u8
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://i.imgur.com/BIy8hdr.jpg",VTVCab4
 #EXTVLCOPT:http-user-agent="SmartSDK"
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab4_HD.smil/chunklist.m3u8
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab4_HD.smil/chunklist_w1602351601_b2692000.m3u8
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://imgur.com/FoGuNrA.png",VTVCab5 - E CHANNEL
 #EXTVLCOPT:http-user-agent="SmartSDK"
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab5_SD.smil/chunklist.m3u8
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab5_SD.smil/chunklist_w88390933_b2692000.m3u8
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://i.imgur.com/umBe3AB.jpg",VTVCab6 - HAY TV
 #EXTVLCOPT:http-user-agent="SmartSDK"
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab6_SD.smil/chunklist.m3u8
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab6_SD.smil/chunklist_w284189779_b2692000.m3u8
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://i.imgur.com/bFWgi4j.png",VTVCab7 - SỨC KHOẺ
 #EXTVLCOPT:http-user-agent="SmartSDK"
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab7_SD.smil/chunklist.m3u8
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab7_SD.smil/chunklist_w1376506821_b2692000.m3u8
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://i.imgur.com/tFXYz2b.jpg",VTVCab8 - BIBI
 #EXTVLCOPT:http-user-agent="SmartSDK"
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab8_SD.smil/chunklist.m3u8
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab8_SD.smil/chunklist_w1437624030_b2692000.m3u8
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://i.imgur.com/TuYOsTV.jpg",VTVCab9 - INFO TV
 #EXTVLCOPT:http-user-agent="SmartSDK"
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab9_SD.smil/chunklist.m3u8
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab9_SD.smil/chunklist_w1428480983_b2692000.m3u8
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://i.imgur.com/mIeWnYi.jpg",VTVCab10 - VIE DRAMAS
 #EXTVLCOPT:http-user-agent="SmartSDK"
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab10_SD.smil/chunklist.m3u8
-#EXTINF:-1 group-title="VTVCab" tvg-logo="https://shop-media.vgsshop.vn/pub/media/logo/stores/7/vgsshopLogo.png",VTVCab11 - VGS SHOP
-#EXTVLCOPT:http-user-agent="SmartSDK"
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab11_SD.smil/chunklist.m3u8
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab10_SD.smil/chunklist_w1228530228_b2692000.m3u8
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://i.imgur.com/XquBifl.jpg",VTVCab12 - STYLE TV
 #EXTVLCOPT:http-user-agent="SmartSDK"
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab12_SD.smil/chunklist.m3u8
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab12_SD.smil/chunklist_w1704222967_b2692000.m3u8
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://imgur.com/HwMUDwy.png",VTVCab13 - VTV Hyundai Homeshopping
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://livecdn.fptplay.net/sda/vtvhomeshopping_1000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://i.imgur.com/e7I4mQK.jpg",VTVCab15
 #EXTVLCOPT:http-user-agent="SmartSDK"
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab15_SD.smil/chunklist.m3u8
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab15_SD.smil/chunklist_w1045987880_b2692000.m3u8
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://i.imgur.com/e40ks2V.jpg",VTVCab16 - BÓNG ĐÁ TV
 #EXTVLCOPT:http-user-agent="SmartSDK"
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab16_SD.smil/chunklist.m3u8
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab16_SD.smil/chunklist_w59021678_b2692000.m3u8
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://i.imgur.com/DSLYQC9.jpg",VTVCab17 - YEAH1!TV
 #EXTVLCOPT:http-user-agent="SmartSDK"
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab17_SD.smil/chunklist.m3u8
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab17_SD.smil/chunklist_w1937694963_b2692000.m3u8
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://i.imgur.com/mTGTxDg.jpg",VTVCab19 - FILM TV
 #EXTVLCOPT:http-user-agent="SmartSDK"
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab19_SD.smil/chunklist.m3u8
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab19_SD.smil/chunklist_w2020656984_b2692000.m3u8
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://i.imgur.com/INmmZZn.jpg",VTVCab20 - V FAMILY
 #EXTVLCOPT:http-user-agent="SmartSDK"
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab20_SD.smil/chunklist.m3u8
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab20_SD.smil/chunklist_w1750066304_b2692000.m3u8
 #------------------------HTV------------------------#
 #EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/8CnKosU.jpg",HTV1
 #EXTVLCOPT:http-user-agent="SmartSDK"
