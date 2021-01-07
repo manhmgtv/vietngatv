@@ -82,6 +82,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/bw2000000/variant.m3u8?versio
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/7QQ9Y99.png",8 канал Новосибирск (Новосибирск)
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8?version=2
+#EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/wfmHkcY.png",8 канал Красноярский край (Абакан)
+#EXTVLCOPT:http-user-agent="SmartSDK"
+http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/variant.m3u8?version=2
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/wfmHkcY.png",8 канал Красноярский край (Красноярск)
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_8CHANNEL/variant.m3u8?version=2
@@ -345,6 +348,9 @@ http://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="VTC" tvg-logo="https://imgur.com/qAOy5Cd.png",VTC12 SD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="VTC" tvg-logo="https://imgur.com/2RRt2M4.png",VTC13 4K
+#EXTVLCOPT:http-user-agent="SmartSDK"
+http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/chunklist_w82265077_b4096000_sleng.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="VTC" tvg-logo="https://imgur.com/2RRt2M4.png",VTC13 HD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://livecdn.fptplay.net/sdc/vtc13_2000.stream/chunklist.m3u8
@@ -1051,9 +1057,6 @@ http://livecdn.fptplay.net/world/france24_hls.smil/chunklist_b2500000.m3u8
 http://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/oUlVrf5.jpg",Russia Today
 #EXTVLCOPT:http-user-agent="SmartSDK"
-http://36.37.252.114:888/Apple/OneTV-057/playlist.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/oUlVrf5.jpg",Russia Today [Zabava]
-#EXTVLCOPT:http-user-agent="SmartSDK"
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RT/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/oUlVrf5.jpg",Russia Today HD
 #EXTVLCOPT:http-user-agent="SmartSDK"
@@ -1127,9 +1130,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_FOODHD/bw2000000/variant.m3u8?ver
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/rCPlJ2z.png",Food Network HD (Tiếng Nga)
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_FOODHD/bw4000000/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/5ukCy9p.png",Euronews [English]
-#EXTVLCOPT:http-user-agent="SmartSDK"
-http://36.37.252.114:888/Apple/OneTV-047/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/5ukCy9p.png",Euronews [Russian]
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
