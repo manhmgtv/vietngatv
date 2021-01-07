@@ -137,7 +137,7 @@ http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_64kbps
 #EXTVLCOPT:http-user-agent="tvvietnga"
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #------------------------Kênh Nga Ngố HD------------------------#
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố HD" tvg-logo="https://i.imgur.com/yOPyfDA.jpg",ПЕРВЫЙ КАНАЛ HD (+4)
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố HD" tvg-logo="https://i.imgur.com/yOPyfDA.jpg",ПЕРВЫЙ КАНАЛ HD [+4] (Сибирь)
 #EXTVLCOPT:http-user-agent="vietngatv"
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TV_4/bw4000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố HD" tvg-logo="https://i.imgur.com/tvUT0Ss.png",Россия 1 HD
