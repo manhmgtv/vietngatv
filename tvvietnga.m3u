@@ -162,31 +162,58 @@ http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_CENTRKRSN/variant.m3u8?versi
 #EXTVLCOPT:http-user-agent="tvvietnga"
 http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_TOMSK_TOMSKVREMIA/variant.m3u8?version=2
 #------------------------VTV------------------------#
-#EXTINF:-1 aspect-ratio="16:9" group-title="VTV" tvg-logo="https://i.imgur.com/te4Rb7f.png",VTV1 HD
+#EXTINF:-1 aspect-ratio="16:9" group-title="VTV" tvg-logo="https://i.imgur.com/te4Rb7f.png",VTV1 SD
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://carwga553.vtvgiaitri.vn/vtv01/vtv01@480p.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="VTV" tvg-logo="https://i.ibb.co/gywZ98j/VTV1-HD-BEARTV.png",VTV1 HD
 #EXTVLCOPT:http-user-agent="tvvietnga"
 http://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="VTV" tvg-logo="https://i.imgur.com/KmngEnt.png",VTV2 HD
+#EXTINF:-1 aspect-ratio="16:9" group-title="VTV" tvg-logo="https://i.imgur.com/KmngEnt.png",VTV2 SD
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://carwga553.vtvgiaitri.vn/vtv02/vtv02@480p.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="VTV" tvg-logo="https://i.ibb.co/khkmQ4F/VTV2-HD-BEARTV.png",VTV2 HD
 #EXTVLCOPT:http-user-agent="tvvietnga"
 http://livecdn.fptplay.net/hda/vtv2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="VTV" tvg-logo="https://i.imgur.com/yNiXZri.png",VTV3 HD
+#EXTINF:-1 aspect-ratio="16:9" group-title="VTV" tvg-logo="https://i.imgur.com/yNiXZri.png",VTV3 SD
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://carwga553.vtvgiaitri.vn/vtv03/vtv03@480p.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="VTV" tvg-logo="https://i.ibb.co/87vc2Yr/VTV3-HD-BEARTV.png",VTV3 HD
 #EXTVLCOPT:http-user-agent="tvvietnga"
 http://livecdn.fptplay.net/hda/vtv3hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="VTV" tvg-logo="https://i.imgur.com/WG3Wi0q.png",VTV4 HD
+#EXTINF:-1 aspect-ratio="16:9" group-title="VTV" tvg-logo="https://i.imgur.com/WG3Wi0q.png",VTV4 SD
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://carwga553.vtvgiaitri.vn/vtv04/vtv04@480p.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="VTV" tvg-logo="https://i.ibb.co/1nWtV9B/VTV4-HD-BEARTV.png",VTV4 HD
 #EXTVLCOPT:http-user-agent="tvvietnga"
 http://livecdn.fptplay.net/hda/vtv4_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="VTV" tvg-logo="https://i.imgur.com/lOvwbNQ.png",VTV5 HD
+#EXTINF:-1 aspect-ratio="16:9" group-title="VTV" tvg-logo="https://i.imgur.com/lOvwbNQ.png",VTV5 SD
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://carwga553.vtvgiaitri.vn/vtv05/vtv05@480p.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="VTV" tvg-logo="https://i.ibb.co/3FkgpPp/VTV5-HD-BEARTV.png",VTV5 HD
 #EXTVLCOPT:http-user-agent="tvvietnga"
 http://livecdn.fptplay.net/hda/vtv5hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="VTV" tvg-logo="https://i.imgur.com/QI4bFvX.png",VTV6 HD
+#EXTINF:-1 aspect-ratio="16:9" group-title="VTV" tvg-logo="https://i.imgur.com/QI4bFvX.png",VTV6 SD
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://carwga553.vtvgiaitri.vn/vtv06/vtv06@480p.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="VTV" tvg-logo="https://i.ibb.co/61MhZPy/VTV6-HD-BEARTV.png",VTV6 HD
 #EXTVLCOPT:http-user-agent="tvvietnga"
 http://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="VTV" tvg-logo="https://i.imgur.com/z8m5lWk.png",VTV7 HD
+#EXTINF:-1 aspect-ratio="16:9" group-title="VTV" tvg-logo="https://i.imgur.com/z8m5lWk.png",VTV7 SD
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://carwga553.vtvgiaitri.vn/vtv07/vtv07@480p.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="VTV" tvg-logo="https://i.ibb.co/27xvxDJ/VTV7-HD-BEARTV.png",VTV7 HD
 #EXTVLCOPT:http-user-agent="tvvietnga"
 http://livecdn.fptplay.net/hda/vtv7hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="VTV" tvg-logo="https://i.imgur.com/mIjvO6X.png",VTV8 HD
+#EXTINF:-1 aspect-ratio="16:9" group-title="VTV" tvg-logo="https://i.imgur.com/mIjvO6X.png",VTV8 SD
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://carwga553.vtvgiaitri.vn/vtv08/vtv08@480p.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="VTV" tvg-logo="https://i.ibb.co/frqfTd1/VTV8-HD-BEARTV.png",VTV8 HD
 #EXTVLCOPT:http-user-agent="tvvietnga"
 http://subs-livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="VTV" tvg-logo="https://i.imgur.com/GDP5zVb.png",VTV9 HD
+#EXTINF:-1 aspect-ratio="16:9" group-title="VTV" tvg-logo="https://i.imgur.com/GDP5zVb.png",VTV9 SD
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://carwga553.vtvgiaitri.vn/vtv09/vtv09@480p.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="VTV" tvg-logo="https://i.ibb.co/6bFVqfq/VTV9-HD-BEARTV.png",VTV9 HD
 #EXTVLCOPT:http-user-agent="tvvietnga"
 http://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
 #------------------------VTVCab------------------------#
@@ -319,6 +346,9 @@ http://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="VTC" tvg-logo="https://imgur.com/vemNwkI.png",VTC3 HD
 #EXTVLCOPT:http-user-agent="tvvietnga"
 http://livecdn.fptplay.net/hda/vtc3hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="VTC" tvg-logo="https://imgur.com/0dkRtxJ.png",VTC4 SD
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTC4-SD-ABR/HTV-ABR/VTC4-SD-480p/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="VTC" tvg-logo="https://imgur.com/0dkRtxJ.png",VTC4 HD
 #EXTVLCOPT:http-user-agent="tvvietnga"
 http://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
