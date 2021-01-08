@@ -140,6 +140,9 @@ http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_64kbps
 #EXTVLCOPT:http-user-agent="vietngatv"
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #------------------------Kênh Nga Ngố HD------------------------#
+#EXTINF:-1 group-title="Kênh Nga Ngố HD" tvg-logo="https://i.imgur.com/yOPyfDA.jpg",Первый канал HD (+4)
+#EXTVLCOPT:http-user-agent="vietngatv"
+https://bom.to/r12Kkk5y
 #EXTINF:-1 group-title="Kênh Nga Ngố HD" tvg-logo="https://i.imgur.com/tvUT0Ss.png",Россия 1 HD
 #EXTVLCOPT:http-user-agent="vietngatv"
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
@@ -316,9 +319,6 @@ https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/vemNwkI.png",VTC3 HD
 #EXTVLCOPT:http-user-agent="vietngatv"
 https://livecdn.fptplay.net/hda/vtc3hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/0dkRtxJ.png",VTC4 SD
-#EXTVLCOPT:http-user-agent="vietngatv"
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTC4-SD-ABR/HTV-ABR/VTC4-SD-480p/playlist.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/0dkRtxJ.png",VTC4 HD
 #EXTVLCOPT:http-user-agent="vietngatv"
 https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
