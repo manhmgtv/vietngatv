@@ -139,10 +139,10 @@ http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_64kbps
 #EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/3Q5F9zJ.png",Россия РТР
 #EXTVLCOPT:http-user-agent="vietngatv"
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
-#------------------------Kênh Nga Ngố HD------------------------#
-#EXTINF:-1 group-title="Kênh Nga Ngố HD" tvg-logo="https://i.imgur.com/yOPyfDA.jpg",Первый канал HD (+4)
+#EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/3Q5F9zJ.png",Россия РТР [480p]
 #EXTVLCOPT:http-user-agent="vietngatv"
-https://bom.to/r12Kkk5y
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
+#------------------------Kênh Nga Ngố HD------------------------#
 #EXTINF:-1 group-title="Kênh Nga Ngố HD" tvg-logo="https://i.imgur.com/tvUT0Ss.png",Россия 1 HD
 #EXTVLCOPT:http-user-agent="vietngatv"
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
