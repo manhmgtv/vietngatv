@@ -379,9 +379,6 @@ http://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="VTC" tvg-logo="https://imgur.com/qAOy5Cd.png",VTC12 SD
 #EXTVLCOPT:http-user-agent="tvvietnga"
 http://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="VTC" tvg-logo="https://imgur.com/2RRt2M4.png",VTC13 4K
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/chunklist_w82265077_b4096000_sleng.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="VTC" tvg-logo="https://imgur.com/2RRt2M4.png",VTC13 HD
 #EXTVLCOPT:http-user-agent="tvvietnga"
 http://livecdn.fptplay.net/sdc/vtc13_2000.stream/chunklist.m3u8
@@ -1042,7 +1039,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANILLUSION/bw2000000/variant.m3u
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVXXI/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Phim Quốc Tế" tvg-logo="https://i.imgur.com/4AdLabb.png",Zee TV
 #EXTVLCOPT:http-user-agent="tvvietnga"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZEETV/bw2000000/variant.m3u8?version=2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZEETVHD/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Phim Quốc Tế" tvg-logo="https://i.imgur.com/4AdLabb.png",Zee TV HD
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZEETVHD/bw4000000/variant.m3u8?version=2
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Phim Quốc Tế" tvg-logo="https://i.imgur.com/UNc7tnT.png",Amedia Hit SD
 #EXTVLCOPT:http-user-agent="tvvietnga"
 http://zabava-htlive.cdn.ngenix.net/hls/CH_AMEDIAHITSD/bw2000000/variant.m3u8?version=2
