@@ -256,12 +256,18 @@ https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab16_SD.smil/chunklist_w59021678
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://i.imgur.com/DSLYQC9.jpg",VTVCab17 - YEAH1!TV
 #EXTVLCOPT:http-user-agent="vietngatv"
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab17_SD.smil/chunklist_w1937694963_b2692000.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-logo="https://i.imgur.com/vBF30yz.jpg",VTVCab18 - THỂ THAO TIN TỨC HD
+#EXTVLCOPT:http-user-agent="vietngatv"
+http://vnptudpxy.trialsonserver.com:8889/udp/232.84.2.193:10942
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://i.imgur.com/mTGTxDg.jpg",VTVCab19 - FILM TV
 #EXTVLCOPT:http-user-agent="vietngatv"
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab19_SD.smil/chunklist_w2020656984_b2692000.m3u8
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://i.imgur.com/INmmZZn.jpg",VTVCab20 - V FAMILY
 #EXTVLCOPT:http-user-agent="vietngatv"
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab20_SD.smil/chunklist_w1750066304_b2692000.m3u8
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/krh6my8.png",VTVCab23 - GOLF TV
+#EXTVLCOPT:http-user-agent="vietngatv"
+http://vnptudpxy.trialsonserver.com:8889/udp/232.84.2.246:10876
 #------------------------HTV------------------------#
 #EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/8CnKosU.jpg",HTV1
 #EXTVLCOPT:http-user-agent="vietngatv"
@@ -564,10 +570,7 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BRVT-SD-ABR/HTV-ABR/BRVT-SD-480p/
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/tv4Jy7A.png",BRT - Truyền hình Bà Rịa Vũng Tàu HD
 #EXTVLCOPT:http-user-agent="vietngatv"
 https://livecdn.fptplay.net/sdc/bariavungtau_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/VIPvHmt.jpg",BGTV - Truyền hình Bắc Giang HD [720p]
-#EXTVLCOPT:http-user-agent="vietngatv"
-https://livecdn.fptplay.net/sdc/bacgiang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/VIPvHmt.jpg",BGTV - Truyền hình Bắc Giang HD [1080p]
+#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/VIPvHmt.jpg",BGTV - Truyền hình Bắc Giang HD
 #EXTVLCOPT:http-user-agent="vietngatv"
 https://livecdn.fptplay.net/sdc/bacgiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/EdAK0v2.jpg",BLTV - Truyền hình Bạc Liêu
@@ -651,9 +654,6 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DANANG1-SD-ABR/HTV-ABR/DANANG1-SD
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/tFT2XlB.jpg",DaNangTV1 - Truyền hình Đà Nẵng 1 HD
 #EXTVLCOPT:http-user-agent="vietngatv"
 https://livecdn.fptplay.net/sdc/danang1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/9LLBLSy.jpg",DaNangTV2 - Truyền hình Đà Nẵng 2 SD
-#EXTVLCOPT:http-user-agent="vietngatv"
-https://livecdn.fptplay.net/sdc/danang2_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/9LLBLSy.jpg",DaNangTV2 - Truyền hình Đà Nẵng 2 HD
 #EXTVLCOPT:http-user-agent="vietngatv"
 https://livecdn.fptplay.net/sdc/danang2_hls.smil/chunklist_b2800000.m3u8
@@ -1240,25 +1240,25 @@ https://zabava-htlive-lb.cdn.ngenix.net/hls/CH_STSKIDSHD/bw4000000/variant.m3u8
 https://zabava-htlive-lb.cdn.ngenix.net/hls/CH_GAGSNETWORKHD/bw2000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Giải Trí" tvg-logo="https://i.imgur.com/AcMe0L2.png",GAGSNETWORK HD
 #EXTVLCOPT:http-user-agent="vietngatv"
-https://zabava-htlive-lb.cdn.ngenix.net/hls/CH_GAGSNETWORKHD/bw5000000/variant.m3u8
+https://zabava-htlive-lb.cdn.ngenix.net/hls/CH_GAGSNETWORKHD/bw4000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Giải Trí" tvg-logo="https://i.imgur.com/4jUEFQC.png",Зал суда
 #EXTVLCOPT:http-user-agent="vietngatv"
 https://zabava-htlive-lb.cdn.ngenix.net/hls/CH_ZALSUDAHD/bw2000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Giải Trí" tvg-logo="https://i.imgur.com/4jUEFQC.png",Зал суда HD
 #EXTVLCOPT:http-user-agent="vietngatv"
-https://zabava-htlive-lb.cdn.ngenix.net/hls/CH_ZALSUDAHD/bw5000000/variant.m3u8
+https://zabava-htlive-lb.cdn.ngenix.net/hls/CH_ZALSUDAHD/bw4000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Giải Trí" tvg-logo="https://i.imgur.com/GfUboZY.png",Дикая охота SD
 #EXTVLCOPT:http-user-agent="vietngatv"
 https://zabava-htlive-lb.cdn.ngenix.net/hls/CH_DIKAYAOHOTAHD/bw2000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Giải Trí" tvg-logo="https://i.imgur.com/GfUboZY.png",Дикая охота HD
 #EXTVLCOPT:http-user-agent="vietngatv"
-https://zabava-htlive-lb.cdn.ngenix.net/hls/CH_DIKAYAOHOTAHD/bw5000000/variant.m3u8
+https://zabava-htlive-lb.cdn.ngenix.net/hls/CH_DIKAYAOHOTAHD/bw4000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Giải Trí" tvg-logo="https://i.imgur.com/GFeGtXS.png",Дикая рыбалка SD
 #EXTVLCOPT:http-user-agent="vietngatv"
 https://zabava-htlive-lb.cdn.ngenix.net/hls/CH_DIKAYARYBALKAHD/bw2000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Giải Trí" tvg-logo="https://i.imgur.com/GFeGtXS.png",Дикая рыбалка HD
 #EXTVLCOPT:http-user-agent="vietngatv"
-https://zabava-htlive-lb.cdn.ngenix.net/hls/CH_DIKAYARYBALKAHD/bw5000000/variant.m3u8
+https://zabava-htlive-lb.cdn.ngenix.net/hls/CH_DIKAYARYBALKAHD/bw4000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Giải Trí" tvg-logo="https://i.imgur.com/w3Wz5hC.png",Russian Travel Guide
 #EXTVLCOPT:http-user-agent="vietngatv"
 https://zabava-htlive-lb.cdn.ngenix.net/hls/CH_RTGHD/bw4000000/variant.m3u8
