@@ -662,7 +662,7 @@ http://livecdn.fptplay.net/sdc/danang2_hls.smil/chunklist_b2800000.m3u8
 http://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/J5sWWVp.png",PTD - Truyền hình Đắk Nông
 #EXTVLCOPT:http-user-agent="tvvietnga"
-https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/431546d0b6702dd6e940e37a3ad798cf/1610295936288/htv_drm/live/dak_nong/playlist.m3u8
+http://vnptudpxy.trialsonserver.com:8889/udp/232.84.3.140:8874
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/Vbh4hY5.png",ĐTV - Truyền hình Điện Biên HD
 #EXTVLCOPT:http-user-agent="tvvietnga"
 http://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b2500000.m3u8
