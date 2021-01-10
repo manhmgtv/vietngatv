@@ -201,10 +201,10 @@ https://livecdn.fptplay.net/hda/vtv7hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/mIjvO6X.png",VTV8 SD
 #EXTVLCOPT:http-user-agent="vietngatv"
 https://carwga553.vtvgiaitri.vn/vtv08/vtv08@480p.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.ibb.co/frqfTd1/VTV8-HD-BEARTV.png",VTV8 HD
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/kXE26Xc.png",VTV8 HD
 #EXTVLCOPT:http-user-agent="vietngatv"
 https://subs-livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/GDP5zVb.png",VTV9 SD
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/cx1fx0b.png",VTV9 SD
 #EXTVLCOPT:http-user-agent="vietngatv"
 https://carwga553.vtvgiaitri.vn/vtv09/vtv09@480p.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.ibb.co/6bFVqfq/VTV9-HD-BEARTV.png",VTV9 HD
