@@ -939,10 +939,10 @@ http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_TNT_KRASN_KRAI/variant.m3u8?
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/wfmHkcY.png",8 канал Красноярский край (Красноярск)
 #EXTVLCOPT:http-user-agent="tvvietnga"
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_8CHANNEL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai) HD" tvg-logo="https://i.imgur.com/TjCmNqo.png",Афонтово (Красноярск) (HD)
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/TjCmNqo.png",Афонтово (Красноярск) (HD)
 #EXTVLCOPT:http-user-agent="tvvietnga"
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_AFONTOVO/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai) HD" tvg-logo="https://i.imgur.com/UvpzpBC.png",Енисей (Красноярск) (HD)
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/UvpzpBC.png",Енисей (Красноярск) (HD)
 #EXTVLCOPT:http-user-agent="tvvietnga"
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_ENISEY/variant.m3u8?version=2
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/M8xKe3A.png",Прима ТВ (Красноярск)
