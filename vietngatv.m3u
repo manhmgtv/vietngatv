@@ -110,7 +110,7 @@ https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab19_SD.smil/chunklist_w20206569
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://i.imgur.com/INmmZZn.jpg",VTVCab20 - V FAMILY
 #EXTVLCOPT:http-user-agent="vietngatv"
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab20_SD.smil/chunklist_w1750066304_b2692000.m3u8
-#EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.imgur.com/krh6my8.png",VTVCab23 - GOLF TV
+#EXTINF:-1 group-title="VTVCab" tvg-logo="https://i.imgur.com/krh6my8.png",VTVCab23 - GOLF TV
 #EXTVLCOPT:http-user-agent="vietngatv"
 http://vnptudpxy.trialsonserver.com:8889/udp/232.84.2.246:10876
 #------------------------HTV------------------------#
