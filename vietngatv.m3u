@@ -145,7 +145,7 @@ http://vnptudpxy.trialsonserver.com:8889/udp/232.84.2.127:8544
 #------------------------Kênh Nga Ngố HD------------------------#
 #EXTINF:-1 group-title="Kênh Nga Ngố HD" tvg-logo="https://i.imgur.com/k9OwOiV.jpg",Первый канал HD (+4)
 #EXTVLCOPT:http-user-agent="vietngatv"
-http://phuhdtv.github.io/iptv/ru/OPT1HD.m3u8
+http://vnptudpxy.trialsonserver.com:8889/udp/232.84.2.128:8352
 #EXTINF:-1 group-title="Kênh Nga Ngố HD" tvg-logo="https://i.imgur.com/tvUT0Ss.png",Россия 1 HD
 #EXTVLCOPT:http-user-agent="vietngatv"
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
