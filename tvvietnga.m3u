@@ -1,5 +1,163 @@
 #EXTM3U FPTPlay, HPlus, Mediatech, Russia Link Download SimpleTV: https://yadi.sk/d/Optmkw0eTZLLPg
 
+#------------------------Kênh Nga Ngố------------------------#
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/zGGqlZt.png",Первый канал [+4] (Красноярск)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 - ГТРК Красноярск [+4]
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/eM0IiDd.png",Матч! ТВ (Красноярск)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/uBCPAz5.png",НТВ [+4] (Красноярск)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/pqgiu6S.png",Пятый канал [+4] (Красноярск)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/i4hHXeO.png",Россия K [+4] (Красноярск)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/e3wm4xi.png",Россия 24 - ГТРК Красноярск
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/p4JmI7J.png",Карусель [+4] (Красноярск)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_KARUSEL/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/5X119Eb.png",ОТР - Енисей (Красноярский край)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTR_KRASN_KRAI/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/CQzxLCm.png",ТВЦ [+4] (Красноярск)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/ouijeoB.png",РЕН ТВ [+4] (Красноярск)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/05b7pNF.png",СПАС (Кемеровская область)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_SPAS_KEMOBL/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/N9Vne9J.png",СТС [+4] (Красноярск)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R04_STS/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/QpJhf46.png",Домашний [+4] (Красноярск)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/m19Px3Q.png",ТВ3 [+4] (Красноярск)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/LVCEIS7.png",Пятница! [+4] (Красноярск)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/KN4Z1xc.png",Звезда [+4] (Красноярск)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/WgGYZ3l.png",Мир [+4] (Красноярский край)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_MIR_KRASN_KRAI/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/YWo7NZY.png",ТНТ [+4] (Красноярск)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/QV67LKt.png",МУЗ ТВ [+4] (Новосибирск)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R04_MUZTV/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/Swh39pH.png",Че [+4] (Красноярск)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/Uq28aOq.png",Ю [+4] (Красноярск)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/n04YEW3.png",Disney [+4] (Красноярск)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_DISNEYCHANNEL/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/6zyqdbr.png",ТНТ4 [+4] (Красноярск)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_TNT4_4/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/WE5yQQg.png",2х2 [+4] (Красноярск)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R04_2X2/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/jxX5BAK.png",Супер [+4] (Сибирь)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/7QQ9Y99.png",8 канал Новосибирск (Новосибирск)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/wfmHkcY.png",8 канал Красноярский край (Красноярск)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_8CHANNEL/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/3KkdT0r.png",СЕДЬМОЙ КАНАЛ (Красноярск)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_RENTV/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/B8TnPMk.png",СТС-Мир (Новосибирск)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_TSM/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/lOSCYb5.png",НСК 49 (Новосибирск)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/Z3Q0xTf.png",НТН24 (Новосибирск)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_NTN24/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/g7iqphh.png",Катунь 24 (Барнаул)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_KATUN24/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/WkPm5EB.png",Кузбасс Первый (Кемерово)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KEM_GTRK/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/M8xKe3A.png",Прима ТВ (Красноярск)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_STS/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/hbDcK5l.png",РБК ТВ (Новосибирск)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_RBC/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/wfmHkcY.png",8 канал Красноярский край (Абакан)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R02_8CHANNEL_ABAKAN/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/ruJHgoX.png",Республиканская телевизионная сеть (Абакан)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/uPCfteS.png",ТВ-7 (Абакан)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/jpAezb1.png",Толк (Барнаул)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_TOLK/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/BdyVZAd.png",ВЕСТИ FM [Audio]
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_64kbps
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/BdyVZAd.png",ВЕСТИ FM [Video]
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/chunklist.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/kyA3XUc.png",Радио МАЯК [Audio]
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_64kbps
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/kyA3XUc.png",Радио МАЯК [Video]
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mayak.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/EeFTjw9.png",Радио России
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_64kbps
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/3Q5F9zJ.png",Россия РТР
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#------------------------Kênh Nga Ngố HD------------------------#
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố HD" tvg-logo="https://i.imgur.com/tvUT0Ss.png",Россия 1 HD
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố HD" tvg-logo="https://i.imgur.com/TjCmNqo.png",Афонтово (Красноярск) (HD)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_AFONTOVO/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố HD" tvg-logo="https://i.imgur.com/UvpzpBC.png",Енисей (Красноярск) (HD)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_ENISEY/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố HD" tvg-logo="https://i.imgur.com/QkeAlAE.png",ОТС (Новосибирск) (HD)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố HD" tvg-logo="https://i.imgur.com/rWJRJuk.png",ТК Центр (Красноярск) (HD)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_CENTRKRSN/variant.m3u8?version=2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố HD" tvg-logo="https://i.imgur.com/7HXvaik.jpg",Томское время (Томск) (HD)
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_TOMSK_TOMSKVREMIA/variant.m3u8?version=2
 #------------------------VTV------------------------#
 #EXTINF:-1 aspect-ratio="16:9" group-title="VTV" tvg-logo="https://i.imgur.com/te4Rb7f.png",VTV1 SD
 #EXTVLCOPT:http-user-agent="tvvietnga"
@@ -191,9 +349,6 @@ http://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="VTC" tvg-logo="https://imgur.com/vemNwkI.png",VTC3 HD
 #EXTVLCOPT:http-user-agent="tvvietnga"
 http://livecdn.fptplay.net/hda/vtc3hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="VTC" tvg-logo="https://imgur.com/0dkRtxJ.png",VTC4 SD
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTC4-SD-ABR/HTV-ABR/VTC4-SD-480p/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="VTC" tvg-logo="https://imgur.com/0dkRtxJ.png",VTC4 HD
 #EXTVLCOPT:http-user-agent="tvvietnga"
 http://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
@@ -824,731 +979,6 @@ http://tv.kgtv.vn/live/kgaudio/kgaudio.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Radio" tvg-logo="https://i.imgur.com/GM97H8L.png",Cà Mau FM
 #EXTVLCOPT:http-user-agent="tvvietnga"
 http://tv.ctvcamau.vn/live/radio/radio.m3u8
-#------------------------Kênh Nga Ngố (Krasnoyarsk Krai)------------------------#
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/zGGqlZt.png",Первый канал [+4] (Красноярск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 - ГТРК Красноярск [+4]
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/eM0IiDd.png",Матч! ТВ (Красноярск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/uBCPAz5.png",НТВ [+4] (Красноярск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/pqgiu6S.png",Пятый канал [+4] (Красноярск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/i4hHXeO.png",Россия K [+4] (Красноярск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/e3wm4xi.png",Россия 24 - ГТРК Красноярск
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/p4JmI7J.png",Карусель [+4] (Красноярск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_KARUSEL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/5X119Eb.png",ОТР - Енисей (Красноярский край)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTR_KRASN_KRAI/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/CQzxLCm.png",ТВЦ [+4] (Красноярск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/ouijeoB.png",РЕН ТВ [+4] (Красноярск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/N9Vne9J.png",СТС [+4] (Красноярск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R04_STS/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/QpJhf46.png",Домашний [+4] (Красноярск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/m19Px3Q.png",ТВ3 [+4] (Красноярск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/LVCEIS7.png",Пятница! [+4] (Красноярск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/KN4Z1xc.png",Звезда [+4] (Красноярск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/WgGYZ3l.png",Мир [+4] (Красноярский край)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_MIR_KRASN_KRAI/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/YWo7NZY.png",ТНТ [+4] (Красноярск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/Swh39pH.png",Че [+4] (Красноярск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/Uq28aOq.png",Ю [+4] (Красноярск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/n04YEW3.png",Disney [+4] (Красноярск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_DISNEYCHANNEL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/6zyqdbr.png",ТНТ4 [+4] (Красноярск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_TNT4_4/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/WE5yQQg.png",2х2 [+4] (Красноярск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R04_2X2/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/zGGqlZt.png",Первый канал [+4] (Красноярский край)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KRASN_KRAI/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 - ГТРК Красноярск [+4] (Красноярский край)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_KRASN_KRAI/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/uBCPAz5.png",НТВ [+4] (Красноярский край)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_NTV_KRASN_KRAI/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/pqgiu6S.png",Пятый канал [+4] (Красноярский край)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_5TV_KRASN_KRAI/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/i4hHXeO.png",Россия K [+4] (Красноярский край)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK_KRASN_KRAI/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/e3wm4xi.png",Россия 24 - ГТРК Красноярск (Красноярский край)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_KRASN_KRAI/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/p4JmI7J.png",Карусель [+4] (Красноярский край)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL_KRASN_KRAI/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/CQzxLCm.png",ТВЦ [+4] (Красноярский край)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R04_TVC_KRASN_KRAI/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/ouijeoB.png",РЕН ТВ [+4] (Красноярский край)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_KRASN_KRAI/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/N9Vne9J.png",СТС [+4] (Красноярский край)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_STS_KRASN_KRAI/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/QpJhf46.png",Домашний [+4] (Красноярский край)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY_KRASN_KRAI/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/m19Px3Q.png",ТВ3 [+4] (Красноярский край)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_TV3_KRASN_KRAI/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/LVCEIS7.png",Пятница! [+4] (Красноярский край)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_KRASN_KRAI/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/KN4Z1xc.png",Звезда [+4] (Красноярский край)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA_KRASN_KRAI/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/YWo7NZY.png",ТНТ [+4] (Красноярский край)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_TNT_KRASN_KRAI/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/wfmHkcY.png",8 канал Красноярский край (Красноярск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_8CHANNEL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/TjCmNqo.png",Афонтово (Красноярск) (HD)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_AFONTOVO/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/UvpzpBC.png",Енисей (Красноярск) (HD)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_ENISEY/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/M8xKe3A.png",Прима ТВ (Красноярск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_STS/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/3KkdT0r.png",СЕДЬМОЙ КАНАЛ (Красноярск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_RENTV/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Krasnoyarsk Krai)" tvg-logo="https://i.imgur.com/rWJRJuk.png",ТК Центр (Красноярск) (HD)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_CENTRKRSN/variant.m3u8?version=2
-#------------------------Kênh Nga Ngố (Novosibirsk Oblast)------------------------#
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Novosibirsk Oblast)" tvg-logo="https://i.imgur.com/zGGqlZt.png",Первый канал [+4] (Новосибирск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Novosibirsk Oblast)" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 - ГТРК Новосибирск [+4]
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Novosibirsk Oblast)" tvg-logo="https://i.imgur.com/eM0IiDd.png",Матч! ТВ (Новосибирск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Novosibirsk Oblast)" tvg-logo="https://i.imgur.com/uBCPAz5.png",НТВ [+4] (Новосибирск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Novosibirsk Oblast)" tvg-logo="https://i.imgur.com/pqgiu6S.png",Пятый канал [+4] (Новосибирск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Novosibirsk Oblast)" tvg-logo="https://i.imgur.com/i4hHXeO.png",Россия K [+4] (Новосибирск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Novosibirsk Oblast)" tvg-logo="https://i.imgur.com/e3wm4xi.png",Россия 24 - ГТРК Новосибирск
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Novosibirsk Oblast)" tvg-logo="https://i.imgur.com/p4JmI7J.png",Карусель [+4] (Новосибирск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Novosibirsk Oblast)" tvg-logo="https://i.imgur.com/5X119Eb.png",ОТР - ОТС (Новосибирск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R04_OTR/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Novosibirsk Oblast)" tvg-logo="https://i.imgur.com/CQzxLCm.png",ТВЦ [+4] (Новосибирск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Novosibirsk Oblast)" tvg-logo="https://i.imgur.com/ouijeoB.png",РЕН ТВ [+4] (Новосибирск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Novosibirsk Oblast)" tvg-logo="https://i.imgur.com/N9Vne9J.png",СТС [+4] (Новосибирск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_NSK_STS/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Novosibirsk Oblast)" tvg-logo="https://i.imgur.com/QpJhf46.png",Домашний [+4] (Новосибирск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Novosibirsk Oblast)" tvg-logo="https://i.imgur.com/m19Px3Q.png",ТВ3 [+4] (Новосибирск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Novosibirsk Oblast)" tvg-logo="https://i.imgur.com/LVCEIS7.png",Пятница! [+4] (Новосибирск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Novosibirsk Oblast)" tvg-logo="https://i.imgur.com/KN4Z1xc.png",Звезда [+4] (Новосибирск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Novosibirsk Oblast)" tvg-logo="https://i.imgur.com/WgGYZ3l.png",Мир [+4] (Новосибирск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R03_MIR/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Novosibirsk Oblast)" tvg-logo="https://i.imgur.com/YWo7NZY.png",ТНТ [+4] (Новосибирск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Novosibirsk Oblast)" tvg-logo="https://i.imgur.com/QV67LKt.png",МУЗ ТВ [+4] (Новосибирск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R04_MUZTV/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Novosibirsk Oblast)" tvg-logo="https://i.imgur.com/Swh39pH.png",Че [+4] (Новосибирск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Novosibirsk Oblast)" tvg-logo="https://i.imgur.com/Uq28aOq.png",Ю [+4] (Новосибирск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Novosibirsk Oblast)" tvg-logo="https://i.imgur.com/n04YEW3.png",Disney [+4] (Новосибирск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R02_DISNEYCHANNEL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Novosibirsk Oblast)" tvg-logo="https://i.imgur.com/6zyqdbr.png",ТНТ4 [+4] (Новосибирск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_TNT4NSK/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Novosibirsk Oblast)" tvg-logo="https://i.imgur.com/WE5yQQg.png",2х2 [+4] (Новосибирск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R04_2X2/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Novosibirsk Oblast)" tvg-logo="https://i.imgur.com/7QQ9Y99.png",8 канал Новосибирск (Новосибирск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Novosibirsk Oblast)" tvg-logo="https://i.imgur.com/hbDcK5l.png",РБК ТВ (Новосибирск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_RBC/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Novosibirsk Oblast)" tvg-logo="https://i.imgur.com/B8TnPMk.png",СТС-Мир (Новосибирск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_TSM/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Novosibirsk Oblast)" tvg-logo="https://i.imgur.com/lOSCYb5.png",НСК 49 (Новосибирск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Novosibirsk Oblast)" tvg-logo="https://i.imgur.com/Z3Q0xTf.png",НТН24 (Новосибирск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_NTN24/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Novosibirsk Oblast)" tvg-logo="https://i.imgur.com/QkeAlAE.png",ОТС (Новосибирск) (HD)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8?version=2
-#------------------------Kênh Nga Ngố (Altai Krai)------------------------#
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Krai)" tvg-logo="https://i.imgur.com/zGGqlZt.png",Первый канал [+4] (Барнаул)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_BUL_1TV/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Krai)" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 - ГТРК Алтай [+4]
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_BUL_ROSSIA1/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Krai)" tvg-logo="https://i.imgur.com/eM0IiDd.png",Матч! ТВ (Барнаул)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Krai)" tvg-logo="https://i.imgur.com/uBCPAz5.png",НТВ [+4] (Барнаул)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_BUL_NTV/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Krai)" tvg-logo="https://i.imgur.com/pqgiu6S.png",Пятый канал [+4] (Барнаул)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_BUL_5TV/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Krai)" tvg-logo="https://i.imgur.com/i4hHXeO.png",Россия K [+4] (Барнаул)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_BUL_ROSSIAK/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Krai)" tvg-logo="https://i.imgur.com/e3wm4xi.png",Россия 24 - ГТРК Алтай
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_ROSSIA24/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Krai)" tvg-logo="https://i.imgur.com/p4JmI7J.png",Карусель [+4] (Барнаул)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_KARUSEL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Krai)" tvg-logo="https://i.imgur.com/5X119Eb.png",ОТР - Катунь 24 (Барнаул)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_OTR/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Krai)" tvg-logo="https://i.imgur.com/CQzxLCm.png",ТВЦ [+4] (Барнаул)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_BUL_TVC/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Krai)" tvg-logo="https://i.imgur.com/ouijeoB.png",РЕН ТВ [+4] (Барнаул)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_BUL_RENTV/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Krai)" tvg-logo="https://i.imgur.com/05b7pNF.png",СПАС (Барнаул)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_SPAS/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Krai)" tvg-logo="https://i.imgur.com/N9Vne9J.png",СТС [+4] (Барнаул)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_BUL_STS/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Krai)" tvg-logo="https://i.imgur.com/QpJhf46.png",Домашний [+4] (Барнаул)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_BUL_DOMASHNY/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Krai)" tvg-logo="https://i.imgur.com/m19Px3Q.png",ТВ3 [+4] (Барнаул)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_TV3/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Krai)" tvg-logo="https://i.imgur.com/LVCEIS7.png",Пятница! [+4] (Барнаул)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_FRIDAY/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Krai)" tvg-logo="https://i.imgur.com/KN4Z1xc.png",Звезда [+4] (Барнаул)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_BUL_ZVEZDA/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Krai)" tvg-logo="https://i.imgur.com/WgGYZ3l.png",Мир [+4] (Барнаул)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_MIR/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Krai)" tvg-logo="https://i.imgur.com/YWo7NZY.png",ТНТ [+4] (Барнаул)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_TNT/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Krai)" tvg-logo="https://i.imgur.com/QV67LKt.png",МУЗ ТВ [+4] (Барнаул)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_BUL_MUZTV/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Krai)" tvg-logo="https://i.imgur.com/Swh39pH.png",Че [+4] (Барнаул)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_BUL_PERETZ/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Krai)" tvg-logo="https://i.imgur.com/Uq28aOq.png",Ю [+4] (Барнаул)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_BUL_U/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Krai)" tvg-logo="https://i.imgur.com/n04YEW3.png",Disney [+4] (Барнаул)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_BUL_DISNEYCHANNEL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Krai)" tvg-logo="https://i.imgur.com/6zyqdbr.png",ТНТ4 [+4] (Барнаул)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_BUL_TNT4_4/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Krai)" tvg-logo="https://i.imgur.com/WE5yQQg.png",2х2 [+4] (Барнаул)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_BUL_2X2/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Krai)" tvg-logo="https://i.imgur.com/g7iqphh.png",Катунь 24 (Барнаул)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_KATUN24/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Krai)" tvg-logo="https://i.imgur.com/jpAezb1.png",Толк (Барнаул)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_TOLK/variant.m3u8?version=2
-#------------------------Kênh Nga Ngố (Kemerovo Oblast)------------------------#
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/zGGqlZt.png",Первый канал [+4] (Кемерово)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 - ГТРК Кузбасс [+4]
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/eM0IiDd.png",Матч! ТВ (Кемерово)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/uBCPAz5.png",НТВ [+4] (Кемерово)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/pqgiu6S.png",Пятый канал [+4] (Кемерово)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/i4hHXeO.png",Россия K [+4] (Кемерово)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/e3wm4xi.png",Россия 24 - ГТРК Кузбасс
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/p4JmI7J.png",Карусель [+4] (Кемерово)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/5X119Eb.png",ОТР - Кузбасс Первый (Кемеровская область)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_OTR_KEMOBL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/CQzxLCm.png",ТВЦ [+4] (Кемерово)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/ouijeoB.png",РЕН ТВ [+4] (Кемерово)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/05b7pNF.png",СПАС (Кемерово)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R03_SPAS/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/N9Vne9J.png",СТС [+4] (Кемерово)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_KEM_STS/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/QpJhf46.png",Домашний [+4] (Кемерово)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/m19Px3Q.png",ТВ3 [+4] (Кемерово)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/LVCEIS7.png",Пятница! [+4] (Кемерово)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/KN4Z1xc.png",Звезда [+4] (Кемерово)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/WgGYZ3l.png",Мир [+4] (Кемерово)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R05_MIR/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/YWo7NZY.png",ТНТ [+4] (Кемерово)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/Swh39pH.png",Че [+4] (Кемерово)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/Uq28aOq.png",Ю [+4] (Кемерово)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/n04YEW3.png",Disney [+4] (Кемерово)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R02_DISNEYCHANNEL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/6zyqdbr.png",ТНТ4 [+4] (Кемерово)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_KEM_TNT4_4/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/WE5yQQg.png",2х2 [+4] (Кемерово)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R04_2X2/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/zGGqlZt.png",Первый канал [+4] (Кемеровская область)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KEM/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 - ГТРК Кузбасс [+4] (Кемеровская область)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_KEM/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/uBCPAz5.png",НТВ [+4] (Кемеровская область)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R03_NTV_KEM/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/pqgiu6S.png",Пятый канал [+4] (Кемеровская область)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R02_5TV_KEM/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/i4hHXeO.png",Россия K [+4] (Кемеровская область)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK_KEM/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/e3wm4xi.png",Россия 24 - ГТРК Кузбасс (Кемеровская область)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_KEM/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/p4JmI7J.png",Карусель [+4] (Кемеровская область)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL_KEMOBL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/CQzxLCm.png",ТВЦ [+4] (Кемеровская область)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_TVC_KEMOBL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/05b7pNF.png",СПАС (Кемеровская область)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_SPAS_KEMOBL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/m19Px3Q.png",ТВ3 [+4] (Кемеровская область)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_TV3_KEMOBL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/LVCEIS7.png",Пятница! [+4] (Кемеровская область)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_KEMOBL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/KN4Z1xc.png",Звезда [+4] (Кемеровская область)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_ZVEZDA_KEMOBL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/WgGYZ3l.png",Мир [+4] (Кемеровская область)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_MIR_KEMOBL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/YWo7NZY.png",ТНТ [+4] (Кемеровская область)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_TNT_KEM/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/WkPm5EB.png",Кузбасс Первый (Кемерово)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KEM_GTRK/variant.m3u8?version=2
-#------------------------Kênh Nga Ngố (Khakassia)------------------------#
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Khakassia)" tvg-logo="https://i.imgur.com/zGGqlZt.png",Первый канал [+4] (Абакан)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R03_1TV_RESP_KHAK/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Khakassia)" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 - ГТРК Хакасия [+4]
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Khakassia)" tvg-logo="https://i.imgur.com/eM0IiDd.png",Матч! ТВ (Абакан)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Khakassia)" tvg-logo="https://i.imgur.com/uBCPAz5.png",НТВ [+4] (Абакан)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Khakassia)" tvg-logo="https://i.imgur.com/pqgiu6S.png",Пятый канал [+4] (Абакан)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Khakassia)" tvg-logo="https://i.imgur.com/i4hHXeO.png",Россия K [+4] (Абакан)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Khakassia)" tvg-logo="https://i.imgur.com/e3wm4xi.png",Россия 24 - ГТРК Хакасия
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Khakassia)" tvg-logo="https://i.imgur.com/p4JmI7J.png",Карусель [+4] (Абакан)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Khakassia)" tvg-logo="https://i.imgur.com/5X119Eb.png",ОТР [+4] (Барнаул)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_OTR_ABKN/variant.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Khakassia)" tvg-logo="https://i.imgur.com/CQzxLCm.png",ТВЦ [+4] (Абакан)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Khakassia)" tvg-logo="https://i.imgur.com/ouijeoB.png",РЕН ТВ [+4] (Абакан)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Khakassia)" tvg-logo="https://i.imgur.com/05b7pNF.png",СПАС (Абакан)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_SPAS_ABKN/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Khakassia)" tvg-logo="https://i.imgur.com/N9Vne9J.png",СТС [+4] (Абакан)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R02_STS_RESP_KHAK/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Khakassia)" tvg-logo="https://i.imgur.com/QpJhf46.png",Домашний [+4] (Абакан)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Khakassia)" tvg-logo="https://i.imgur.com/m19Px3Q.png",ТВ3 [+4] (Абакан)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Khakassia)" tvg-logo="https://i.imgur.com/LVCEIS7.png",Пятница! [+4] (Абакан)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Khakassia)" tvg-logo="https://i.imgur.com/KN4Z1xc.png",Звезда [+4] (Абакан)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Khakassia)" tvg-logo="https://i.imgur.com/WgGYZ3l.png",Мир [+4] (Абакан)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_MIR_ABKN/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Khakassia)" tvg-logo="https://i.imgur.com/YWo7NZY.png",ТНТ [+4] (Абакан)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Khakassia)" tvg-logo="https://i.imgur.com/Swh39pH.png",Че [+4] (Абакан)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Khakassia)" tvg-logo="https://i.imgur.com/Uq28aOq.png",Ю [+4] (Абакан)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Khakassia)" tvg-logo="https://i.imgur.com/n04YEW3.png",Disney [+4] (Абакан)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R02_DISNEYCHANNEL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Khakassia)" tvg-logo="https://i.imgur.com/6zyqdbr.png",ТНТ4 [+4] (Абакан)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_ABAKAN_TNT4_4/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Khakassia)" tvg-logo="https://i.imgur.com/WE5yQQg.png",2х2 [+4] (Абакан)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R04_2X2/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Khakassia)" tvg-logo="https://i.imgur.com/wfmHkcY.png",8 канал Красноярский край (Абакан)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R02_8CHANNEL_ABAKAN/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Khakassia)" tvg-logo="https://i.imgur.com/ruJHgoX.png",Республиканская телевизионная сеть (Абакан)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Khakassia)" tvg-logo="https://i.imgur.com/uPCfteS.png",ТВ-7 (Абакан)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8?version=2
-#------------------------Kênh Nga Ngố (Tomsk Oblast)------------------------#
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/zGGqlZt.png",Первый канал [+4] (Томск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 - ГТРК Томск [+4]
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/eM0IiDd.png",Матч! ТВ (Томск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/uBCPAz5.png",НТВ [+4] (Томск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/pqgiu6S.png",Пятый канал [+4] (Томск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/i4hHXeO.png",Россия K [+4] (Томск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/e3wm4xi.png",Россия 24 - ГТРК Томск
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/p4JmI7J.png",Карусель [+4] (Томск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/CQzxLCm.png",ТВЦ [+4] (Томск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/ouijeoB.png",РЕН ТВ [+4] (Томск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/N9Vne9J.png",СТС [+4] (Томск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/QpJhf46.png",Домашний [+4] (Томск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/m19Px3Q.png",ТВ3 [+4] (Томск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/LVCEIS7.png",Пятница! [+4] (Томск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/KN4Z1xc.png",Звезда [+4] (Томск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/WgGYZ3l.png",Мир [+4] (Томск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R04_MIR/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/YWo7NZY.png",ТНТ [+4] (Томск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/QV67LKt.png",МУЗ ТВ [+4] (Томск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R05_MUZTV/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/Swh39pH.png",Че [+4] (Томск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/Uq28aOq.png",Ю [+4] (Томск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/n04YEW3.png",Disney [+4] (Томск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R02_DISNEYCHANNEL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/6zyqdbr.png",ТНТ4 [+4] (Томск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_TOMSK_TNT4_4/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/WE5yQQg.png",2х2 [+4] (Томск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R04_2X2/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/zGGqlZt.png",Первый канал [+4] (Томская область)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R03_1TV_TOMSK_OBL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 - ГТРК Томск [+4] (Томская область)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_TOMSK_OBL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/uBCPAz5.png",НТВ [+4] (Томская область)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R03_NTV_TOMSK_OBL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/pqgiu6S.png",Пятый канал [+4] (Томская область)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R02_5TV_TOMSK_OBL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/i4hHXeO.png",Россия K [+4] (Томская область)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK_TOMSK_OBL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/e3wm4xi.png",Россия 24 - ГТРК Томск (Томская область)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_TOMSK_OBL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/p4JmI7J.png",Карусель [+4] (Томская область)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL_TOMSK_OBL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/5X119Eb.png",ОТР - Томское время (Томская область)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_OTR_TOMSK_OBL/variant.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/CQzxLCm.png",ТВЦ [+4] (Томская область)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R04_TVC_TOMSK_OBL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/ouijeoB.png",РЕН ТВ [+4] (Томская область)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_TOMSK_OBL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/N9Vne9J.png",СТС [+4] (Томская область)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R02_STS_TOMSK_OBL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/QpJhf46.png",Домашний [+4] (Томская область)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY_TOMSK_OBL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/m19Px3Q.png",ТВ3 [+4] (Томская область)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_TV3_TOMSK_OBL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/LVCEIS7.png",Пятница! [+4] (Томская область)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_TOMSK_OBL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/KN4Z1xc.png",Звезда [+4] (Томская область)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA_TOMSK_OBL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/WgGYZ3l.png",Мир [+4] (Томская область)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R02_MIR_TOMSK_OBL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/YWo7NZY.png",ТНТ [+4] (Томская область)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_TNT_TOMSK_OBL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Tomsk Oblast)" tvg-logo="https://i.imgur.com/7HXvaik.jpg",Томское время (Томск) (HD)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_TOMSK_TOMSKVREMIA/variant.m3u8?version=2
-#------------------------Kênh Nga Ngố (Altai Republic)------------------------#
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Republic)" tvg-logo="https://i.imgur.com/zGGqlZt.png",Первый канал [+4] (Горно-Алтайск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-galt-htlive.cdn.ngenix.net/hls/CH_R05_1TV/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Republic)" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 - Горный Алтай [+4]
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-galt-htlive.cdn.ngenix.net/hls/CH_R06_ROSSIA1/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Republic)" tvg-logo="https://i.imgur.com/eM0IiDd.png",Матч! ТВ (Горно-Алтайск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-galt-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Republic)" tvg-logo="https://i.imgur.com/uBCPAz5.png",НТВ [+4] (Горно-Алтайск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-galt-htlive.cdn.ngenix.net/hls/CH_R04_NTV/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Republic)" tvg-logo="https://i.imgur.com/pqgiu6S.png",Пятый канал [+4] (Горно-Алтайск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-galt-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Republic)" tvg-logo="https://i.imgur.com/i4hHXeO.png",Россия K [+4] (Горно-Алтайск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-galt-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Republic)" tvg-logo="https://i.imgur.com/e3wm4xi.png",Россия 24 - ГТРК Горный Алтай
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-galt-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Republic)" tvg-logo="https://i.imgur.com/p4JmI7J.png",Карусель [+4] (Горно-Алтайск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-galt-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Republic)" tvg-logo="https://i.imgur.com/5X119Eb.png",ОТР [+4] (Горно-Алтайск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-galt-htlive.cdn.ngenix.net/hls/CH_R02_OTR/variant.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Republic)" tvg-logo="https://i.imgur.com/CQzxLCm.png",ТВЦ [+4] (Горно-Алтайск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-galt-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Republic)" tvg-logo="https://i.imgur.com/ouijeoB.png",РЕН ТВ [+4] (Горно-Алтайск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-galt-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Republic)" tvg-logo="https://i.imgur.com/N9Vne9J.png",СТС [+4] (Горно-Алтайск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-galt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_GALT_STS/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Republic)" tvg-logo="https://i.imgur.com/QpJhf46.png",Домашний [+4] (Горно-Алтайск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-galt-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Republic)" tvg-logo="https://i.imgur.com/m19Px3Q.png",ТВ3 [+4] (Горно-Алтайск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-galt-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Republic)" tvg-logo="https://i.imgur.com/LVCEIS7.png",Пятница! [+4] (Горно-Алтайск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-galt-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Republic)" tvg-logo="https://i.imgur.com/KN4Z1xc.png",Звезда [+4] (Горно-Алтайск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-galt-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Republic)" tvg-logo="https://i.imgur.com/WgGYZ3l.png",Мир [+4] (Горно-Алтайск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-galt-htlive.cdn.ngenix.net/hls/CH_R01_MIR_GALT/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Republic)" tvg-logo="https://i.imgur.com/YWo7NZY.png",ТНТ [+4] (Горно-Алтайск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-galt-htlive.cdn.ngenix.net/hls/CH_R06_TNT/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Republic)" tvg-logo="https://i.imgur.com/QV67LKt.png",МУЗ ТВ [+4] (Горно-Алтайск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-galt-htlive.cdn.ngenix.net/hls/CH_R04_MUZTV/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Republic)" tvg-logo="https://i.imgur.com/Swh39pH.png",Че [+4] (Горно-Алтайск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-galt-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Republic)" tvg-logo="https://i.imgur.com/Uq28aOq.png",Ю [+4] (Горно-Алтайск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-galt-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Republic)" tvg-logo="https://i.imgur.com/n04YEW3.png",Disney [+4] (Горно-Алтайск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-galt-htlive.cdn.ngenix.net/hls/CH_R02_DISNEYCHANNEL/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Republic)" tvg-logo="https://i.imgur.com/6zyqdbr.png",ТНТ4 [+4] (Горно-Алтайск)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-galt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_GALT_TNT4_4/variant.m3u8?version=2
-#------------------------Kênh Nga Ngố------------------------#
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/jxX5BAK.png",Супер [+4] (Сибирь)
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/BdyVZAd.png",ВЕСТИ FM [Audio]
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_64kbps
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/BdyVZAd.png",ВЕСТИ FM [Video]
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/chunklist.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/kyA3XUc.png",Радио МАЯК [Audio]
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_64kbps
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/kyA3XUc.png",Радио МАЯК [Video]
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mayak.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/EeFTjw9.png",Радио России
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_64kbps
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/tvUT0Ss.png",Россия 1 HD
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/3Q5F9zJ.png",Россия РТР
-#EXTVLCOPT:http-user-agent="tvvietnga"
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #-------------------PHIM-------------------#
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Phim Quốc Tế" tvg-logo="https://i.imgur.com/BaZuGNL.png",Blue Ant Entertainment
 #EXTVLCOPT:http-user-agent="tvvietnga"
