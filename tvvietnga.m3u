@@ -1226,16 +1226,16 @@ http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL_KEMOBL/variant.m3u8?v
 http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_TVC_KEMOBL/variant.m3u8?version=2
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/ouijeoB.png",РЕН ТВ [+4] (Кемеровская область)
 #EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_KEM/variant.m3u8?version=2
+http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_KEM_RENTV_KEMOBL/variant.m3u8?version=2
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/05b7pNF.png",СПАС (Кемеровская область)
 #EXTVLCOPT:http-user-agent="tvvietnga"
 http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_SPAS_KEMOBL/variant.m3u8?version=2
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/N9Vne9J.png",СТС [+4] (Кемеровская область)
 #EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R02_STS_KEM/variant.m3u8?version=2
+http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_KEM_STS_KEMOBL/variant.m3u8?version=2
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/QpJhf46.png",Домашний [+4] (Кемеровская область)
 #EXTVLCOPT:http-user-agent="tvvietnga"
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY_KEM/variant.m3u8?version=2
+http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_KEM_DOMASHNY_KEMOBL/variant.m3u8?version=2
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Kemerovo Oblast)" tvg-logo="https://i.imgur.com/m19Px3Q.png",ТВ3 [+4] (Кемеровская область)
 #EXTVLCOPT:http-user-agent="tvvietnga"
 http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_TV3_KEMOBL/variant.m3u8?version=2
