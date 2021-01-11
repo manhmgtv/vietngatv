@@ -136,10 +136,16 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mayak.smil/chunklist_b1600000.m3
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/EeFTjw9.png",Радио России
 #EXTVLCOPT:http-user-agent="tvvietnga"
 http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_64kbps
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/3Q5F9zJ.png",Россия РТР
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/3Q5F9zJ.png",Россия РТР [OTT]
 #EXTVLCOPT:http-user-agent="tvvietnga"
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/3Q5F9zJ.png",Россия РТР [VNPT]
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://vnptudpxy.trialsonserver.com:8889/udp/232.84.2.127:8544
 #------------------------Kênh Nga Ngố HD------------------------#
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố HD" tvg-logo="https://i.imgur.com/k9OwOiV.jpg",Первый канал HD [+4]
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://vnptudpxy.trialsonserver.com:8889/udp/232.84.2.128:8352
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố HD" tvg-logo="https://i.imgur.com/tvUT0Ss.png",Россия 1 HD
 #EXTVLCOPT:http-user-agent="tvvietnga"
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
@@ -220,10 +226,10 @@ https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab1_SD.smil/chunklist_w736153104
 #EXTINF:-1 aspect-ratio="16:9" group-title="VTVCab" tvg-logo="https://i.imgur.com/WkuhkZD.jpg",VTVCab2 - Phim Việt
 #EXTVLCOPT:http-user-agent="tvvietnga"
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab2_SD.smil/chunklist_w572040416_b2692000.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="VTVCab" tvg-logo="https://imgur.com/QfDeJpD.png",VTVCab3 - Thể Thao TV
+#EXTINF:-1 aspect-ratio="16:9" group-title="VTVCab" tvg-logo="https://imgur.com/QfDeJpD.png",VTVCab3 - Thể Thao TV [DRM]
 #EXTVLCOPT:http-user-agent="tvvietnga"
 http://vnptudpxy.trialsonserver.com:8889/udp/232.84.1.208:9222
-#EXTINF:-1 aspect-ratio="16:9" group-title="VTVCab" tvg-logo="https://imgur.com/QfDeJpD.png",VTVCab3 - Thể Thao TV HD
+#EXTINF:-1 aspect-ratio="16:9" group-title="VTVCab" tvg-logo="https://imgur.com/QfDeJpD.png",VTVCab3 - Thể Thao TV HD [DRM]
 #EXTVLCOPT:http-user-agent="tvvietnga"
 http://vnptudpxy.trialsonserver.com:8889/udp/232.84.1.207:9216
 #EXTINF:-1 aspect-ratio="16:9" group-title="VTVCab" tvg-logo="https://i.imgur.com/BIy8hdr.jpg",VTVCab4
@@ -262,6 +268,12 @@ https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab15_SD.smil/chunklist_w10459878
 #EXTINF:-1 aspect-ratio="16:9" group-title="VTVCab" tvg-logo="https://i.imgur.com/e40ks2V.jpg",VTVCab16 - BÓNG ĐÁ TV
 #EXTVLCOPT:http-user-agent="tvvietnga"
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab16_SD.smil/chunklist_w59021678_b2692000.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="VTVCab" tvg-logo="https://i.imgur.com/e40ks2V.jpg",VTVCab16 - BÓNG ĐÁ TV [DRM]
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://vnptudpxy.trialsonserver.com:8889/udp/232.84.1.138:8802
+#EXTINF:-1 aspect-ratio="16:9" group-title="VTVCab" tvg-logo="https://i.imgur.com/e40ks2V.jpg",VTVCab16 - BÓNG ĐÁ TV HD [DRM]
+#EXTVLCOPT:http-user-agent="tvvietnga"
+http://vnptudpxy.trialsonserver.com:8889/udp/232.84.1.210:9234
 #EXTINF:-1 aspect-ratio="16:9" group-title="VTVCab" tvg-logo="https://i.imgur.com/DSLYQC9.jpg",VTVCab17 - YEAH1!TV
 #EXTVLCOPT:http-user-agent="tvvietnga"
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab17_SD.smil/chunklist_w1937694963_b2692000.m3u8
@@ -876,30 +888,18 @@ http://livecdn.fptplay.net/hda/vinhlong1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/mDQssNg.jpg",THVL1 - Truyền hình Vĩnh Long 1 HD [HTVC]
 #EXTVLCOPT:http-user-agent="tvvietnga"
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/THVL1-HD-1080p/playlist.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/mDQssNg.jpg",THVL1 - Truyền hình Vĩnh Long 1 HD [THVLi]
-#EXTVLCOPT:http-user-agent="tvvietnga"
-https://live2.thvli.vn/5d8aec437c6be03ec83cf05a4aaa669c1610223399/live/thvl1hd_2160000/index.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/hrsgjNu.jpg",THVL2 - Truyền hình Vĩnh Long 2 HD [FPT Play]
 #EXTVLCOPT:http-user-agent="tvvietnga"
 http://livecdn.fptplay.net/sdb/vinhlong2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/hrsgjNu.jpg",THVL2 - Truyền hình Vĩnh Long 2 HD [HTVC]
 #EXTVLCOPT:http-user-agent="tvvietnga"
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/THVL2-HD-1080p/playlist.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/hrsgjNu.jpg",THVL2 - Truyền hình Vĩnh Long 2 HD [THVLi]
-#EXTVLCOPT:http-user-agent="tvvietnga"
-https://live2.thvli.vn/25f2b6b93da277008f0a47940ba557f51610223081/live/thvl2hd_2160000/index.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/w7nxAjc.jpg",THVL3 - Truyền hình Vĩnh Long 3 HD [FPT Play]
 #EXTVLCOPT:http-user-agent="tvvietnga"
 http://livecdn.fptplay.net/hda/vinhlong3_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/w7nxAjc.jpg",THVL3 - Truyền hình Vĩnh Long 3 HD [THVLi]
-#EXTVLCOPT:http-user-agent="tvvietnga"
-https://live2.thvli.vn/2bab7dea115edcfbcd106c0668ddab481610223392/live/thvl3hd_2160000/index.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/iuYepMv.jpg",THVL4 - Truyền hình Vĩnh Long 4 HD [FPT Play]
 #EXTVLCOPT:http-user-agent="tvvietnga"
 http://livecdn.fptplay.net/hda/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/iuYepMv.jpg",THVL4 - Truyền hình Vĩnh Long 4 HD [THVLi]
-#EXTVLCOPT:http-user-agent="tvvietnga"
-https://thvl111220.cdn.vnns.io/thvl4/thvl111220/thvl4-720p/chunks.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/2vLk90i.png",VP - Truyền hình Vĩnh Phúc
 #EXTVLCOPT:http-user-agent="tvvietnga"
 http://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8
