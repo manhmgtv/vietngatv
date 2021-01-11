@@ -136,16 +136,10 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mayak.smil/chunklist_b1600000.m3
 #EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/EeFTjw9.png",Радио России
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_64kbps
-#EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/3Q5F9zJ.png",Россия РТР [OTT]
+#EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/3Q5F9zJ.png",Россия РТР
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/3Q5F9zJ.png",Россия РТР [VNPT]
-#EXTVLCOPT:http-user-agent="SmartSDK"
-http://vnptudpxy.trialsonserver.com:8889/udp/232.84.2.127:8544
 #------------------------Kênh Nga Ngố HD------------------------#
-#EXTINF:-1 group-title="Kênh Nga Ngố HD" tvg-logo="https://i.imgur.com/k9OwOiV.jpg",Первый канал HD [+4]
-#EXTVLCOPT:http-user-agent="SmartSDK"
-http://vnptudpxy.trialsonserver.com:8889/udp/232.84.2.128:8352
 #EXTINF:-1 group-title="Kênh Nga Ngố HD" tvg-logo="https://i.imgur.com/tvUT0Ss.png",Россия 1 HD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
@@ -219,6 +213,12 @@ https://carwga553.vtvgiaitri.vn/vtv09/vtv09@480p.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/cx1fx0b.png",VTV9 HD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.ibb.co/Hnc1LPG/VTV5-TNB-BEARTV.png",VTV5 Tây Nam Bộ
+#EXTVLCOPT:http-user-agent="SmartSDK"
+https://vtvgolivesbd.vtvdigital.vn/08bb27b394bbebfff0ff0ff41517fc241602593234601/vtv5tnb.smil/chunklist_b1728000.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.ibb.co/zVJz2CQ/VTV5-TN-BEARTV.png" ,VTV5 Tây Nguyên
+#EXTVLCOPT:http-user-agent="SmartSDK"
+https://vtvgolivesbd.vtvdigital.vn/aaccd401bbf4dc48a73895d3ca8c87331602594004638/vtv5tn.smil/chunklist_b1728000.m3u8
 #------------------------VTVCab------------------------#
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://i.imgur.com/fVDS1c7.jpg",VTVCab1 - Vie Giải Trí
 #EXTVLCOPT:http-user-agent="SmartSDK"
