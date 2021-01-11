@@ -1467,7 +1467,7 @@ http://rt-sib-galt-htlive.cdn.ngenix.net/hls/CH_R05_1TV/variant.m3u8?version=2
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Republic)" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 - Горный Алтай [+4]
 #EXTVLCOPT:http-user-agent="tvvietnga"
 http://rt-sib-galt-htlive.cdn.ngenix.net/hls/CH_R06_ROSSIA1/variant.m3u8?version=2
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Republic)" tvg-logo="https://i.imgur.com/eM0IiDd.png",Матч! ТВ (Абакан)
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Republic)" tvg-logo="https://i.imgur.com/eM0IiDd.png",Матч! ТВ (Горно-Алтайск)
 #EXTVLCOPT:http-user-agent="tvvietnga"
 http://rt-sib-galt-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8?version=2
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố (Altai Republic)" tvg-logo="https://i.imgur.com/uBCPAz5.png",НТВ [+4] (Горно-Алтайск)
@@ -1552,7 +1552,7 @@ http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_64kbps
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/tvUT0Ss.png",Россия 1 HD
 #EXTVLCOPT:http-user-agent="tvvietnga"
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/3Q5F9zJ.png",Россия РТР
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/3Q5F9zJ.png",Россия РТР [+3] (Азия)
 #EXTVLCOPT:http-user-agent="tvvietnga"
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #-------------------PHIM-------------------#
