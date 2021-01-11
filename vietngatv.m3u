@@ -1242,34 +1242,34 @@ https://zabava-htlive-lb.cdn.ngenix.net/hls/CH_STSKIDSHD/bw2000000/variant.m3u8
 https://zabava-htlive-lb.cdn.ngenix.net/hls/CH_STSKIDSHD/bw4000000/variant.m3u8
 #-------------------GIẢI TRÍ-------------------#
 #EXTINF:-1 group-title="Kênh Giải Trí" tvg-logo="https://i.imgur.com/AcMe0L2.png",GAGSNETWORK
-#EXTVLCOPT:http-user-agent="SmartSDK"
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive-lb.cdn.ngenix.net/hls/CH_GAGSNETWORKHD/bw2000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Giải Trí" tvg-logo="https://i.imgur.com/AcMe0L2.png",GAGSNETWORK HD
-#EXTVLCOPT:http-user-agent="SmartSDK"
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive-lb.cdn.ngenix.net/hls/CH_GAGSNETWORKHD/bw4000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Giải Trí" tvg-logo="https://i.imgur.com/4jUEFQC.png",Зал суда
-#EXTVLCOPT:http-user-agent="SmartSDK"
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive-lb.cdn.ngenix.net/hls/CH_ZALSUDAHD/bw2000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Giải Trí" tvg-logo="https://i.imgur.com/4jUEFQC.png",Зал суда HD
-#EXTVLCOPT:http-user-agent="SmartSDK"
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive-lb.cdn.ngenix.net/hls/CH_ZALSUDAHD/bw4000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Giải Trí" tvg-logo="https://i.imgur.com/GfUboZY.png",Дикая охота SD
-#EXTVLCOPT:http-user-agent="SmartSDK"
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive-lb.cdn.ngenix.net/hls/CH_DIKAYAOHOTAHD/bw2000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Giải Trí" tvg-logo="https://i.imgur.com/GfUboZY.png",Дикая охота HD
-#EXTVLCOPT:http-user-agent="SmartSDK"
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive-lb.cdn.ngenix.net/hls/CH_DIKAYAOHOTAHD/bw4000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Giải Trí" tvg-logo="https://i.imgur.com/GFeGtXS.png",Дикая рыбалка SD
-#EXTVLCOPT:http-user-agent="SmartSDK"
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive-lb.cdn.ngenix.net/hls/CH_DIKAYARYBALKAHD/bw2000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Giải Trí" tvg-logo="https://i.imgur.com/GFeGtXS.png",Дикая рыбалка HD
-#EXTVLCOPT:http-user-agent="SmartSDK"
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive-lb.cdn.ngenix.net/hls/CH_DIKAYARYBALKAHD/bw4000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Giải Trí" tvg-logo="https://i.imgur.com/w3Wz5hC.png",Russian Travel Guide
-#EXTVLCOPT:http-user-agent="SmartSDK"
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive-lb.cdn.ngenix.net/hls/CH_RTGHD/bw4000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Giải Trí" tvg-logo="https://i.imgur.com/w3Wz5hC.png",Russian Travel Guide HD
-#EXTVLCOPT:http-user-agent="SmartSDK"
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://zabava-htlive-lb.cdn.ngenix.net/hls/CH_RTGHD/bw4000000/variant.m3u8
 #-------------------Mua Sắm-------------------#
 #EXTINF:-1 group-title="Mua Sắm" tvg-logo="https://i.imgur.com/6AXWWS9.png",HTV coop
