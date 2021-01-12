@@ -64,6 +64,9 @@ http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R04_MUZTV/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/Swh39pH.png",Че (+4)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/Swh39pH.png",Че (+4) [Backup]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/bw2000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/Uq28aOq.png",Ю (+4)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
@@ -73,9 +76,15 @@ http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_DISNEYCHANNEL/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/6zyqdbr.png",ТНТ4 (+4)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_TNT4_4/variant.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/6zyqdbr.png",ТНТ4 (+4) [Backup]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_TNT4NSK/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/WE5yQQg.png",2х2 (+4)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R04_2X2/variant.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/WE5yQQg.png",2х2 (+4) [Backup]
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/bw2000000/variant.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/7QQ9Y99.png",8 канал Новосибирск (Новосибирск)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8
@@ -134,9 +143,15 @@ http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_64kbps
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #------------------------Kênh Nga Ngố HD------------------------#
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố HD" tvg-logo="https://i.imgur.com/k9OwOiV.jpg",Первый канал HD (+4)
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://36.37.252.114:888/Apple/OneTV-041/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố HD" tvg-logo="https://i.imgur.com/tvUT0Ss.png",Россия 1 HD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố HD" tvg-logo="https://i.imgur.com/tvUT0Ss.png",Россия 1 HD (OneTV KH)
+#EXTVLCOPT:http-user-agent="SmartSDK"
+http://36.37.252.114:888/Apple/OneTV-027/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố HD" tvg-logo="https://i.imgur.com/TjCmNqo.png",Афонтово (Красноярск) (HD)
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_AFONTOVO/variant.m3u8
@@ -397,6 +412,9 @@ http://livecdn.fptplay.net/sdc/vtc14_2000.stream/chunklist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="VTC" tvg-logo="https://imgur.com/kpD8AAE.png",VTC16 HD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/VTC_logo_2018.svg",Hướng Dẫn Dịch Vụ VTC
+#EXTVLCOPT:http-user-agent="SmartSDK"
+http://36.37.252.114:888/Apple/OneTV-113/playlist.m3u8
 #------------------------VOV------------------------#
 #EXTINF:-1 aspect-ratio="16:9" group-title="VOV" tvg-logo="https://i.imgur.com/MGLFyKb.png",VOV TV
 #EXTVLCOPT:http-user-agent="SmartSDK"
@@ -1012,13 +1030,28 @@ http://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
 http://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Phim Quốc Tế" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD
 #EXTVLCOPT:http-user-agent="SmartSDK"
+http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Phim Quốc Tế" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD [Việt Nam]
+#EXTVLCOPT:http-user-agent="SmartSDK"
 http://vnptudpxy.trialsonserver.com:8889/udp/232.84.2.138:10648
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Phim Quốc Tế" tvg-logo="https://imgur.com/76pIxyD.png",MAX BY HBO HD
+#EXTVLCOPT:http-user-agent="SmartSDK"
+http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Phim Quốc Tế" tvg-logo="https://imgur.com/76pIxyD.png",MAX BY HBO HD [Việt Nam]
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://vnptudpxy.trialsonserver.com:8889/udp/232.84.2.139:10654
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Phim Quốc Tế" tvg-logo="https://i.imgur.com/pf0FCnT.png",Red by HBO HD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://vnptudpxy.trialsonserver.com:8889/udp/232.84.2.172:10840
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Phim Quốc Tế" tvg-logo="https://i.imgur.com/jTJwiNo.png",HBO Hits (OneTV KH)
+#EXTVLCOPT:http-user-agent="SmartSDK"
+http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Phim Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/200px-HBO_Signature_Asia.png",HBO SIGNATURE
+#EXTVLCOPT:http-user-agent="SmartSDK"
+http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Phim Quốc Tế" tvg-logo="https://i.imgur.com/SJYAGsj.png",HBO Family
+#EXTVLCOPT:http-user-agent="SmartSDK"
+http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Phim Quốc Tế" tvg-logo="https://i.imgur.com/5Gtp7WP.png",AXN HD
 #EXTVLCOPT:http-user-agent="SmartSDK"
 http://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8
