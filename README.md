@@ -5,4 +5,4 @@ RU: Коллекция общедоступных IPTV каналов с вье�
 
 Адрес 1: http://bom.to/vietNgaTV
 
-Адрес 2: http://bom.to/tvvietnga
+Адрес 2: http://bom.to/TVVietnga
