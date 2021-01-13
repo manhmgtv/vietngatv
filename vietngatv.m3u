@@ -209,6 +209,9 @@ http://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="VTC" tvg-logo="https://imgur.com/vemNwkI.png",VTC3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://livecdn.fptplay.net/hda/vtc3hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="VTC" tvg-logo="https://imgur.com/0dkRtxJ.png",VTC4 SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTC4-SD-ABR/HTV-ABR/VTC4-SD-480p/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="VTC" tvg-logo="https://imgur.com/0dkRtxJ.png",VTC4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
@@ -1253,7 +1256,7 @@ http://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/mono.m3u8
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="",Астрахань.Ru Sport HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8?checkedby:iptvcat.com
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="",Башкортостан 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://live.gtrk.tv/720/b24-720.m3u8
@@ -1272,12 +1275,9 @@ http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="",Городской телеканал (Ярославль)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://www.gtk.tv/hls/gtyar.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan",Губерния (Воронеж)
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="",Губерния (Воронеж)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://tvgubernia-htlive.cdn.ngenix.net/live/mp4:tv-gubernia-live/playlist.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan",Губерния Самарская
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/chunklist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="",Губерния (Самара)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
@@ -1296,9 +1296,6 @@ http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/UvpzpBC.png",Енисей (Красноярск) (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="",К16 (Саров)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="",Красная линия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
@@ -1398,7 +1395,7 @@ http://serv25.vintera.tv:8081/novoetv/nov_tv/chunks.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan",Новороссия ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://ott.inmart.tv:8081/19/index.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan",Нижний Новгород
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan",Нижний Новгород 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan",ОТВ (Днепр)
@@ -1446,9 +1443,6 @@ http://dmitry-tv.my1.ru/his/02/CH_TMTV_KZN.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan",ТВР 24 (Сергиев Посад)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/playlist.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan",Татарстан 24 (Казань)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://dmitry-tv.my1.ru/his/02/CH_TATARSTAN24.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan",Тивиком HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
@@ -1479,9 +1473,6 @@ http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan",Щелковское ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://stream0.tv41.ru/live.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan",Эфир (Казань)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://dmitry-tv.my1.ru/his/02/CH_EFIR.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan",Эхо TV (Рязань)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
