@@ -1,31 +1,31 @@
 #EXTM3U aspect-ratio=16:9 Link Download SimpleTV: https://rutracker.org/forum/viewtopic.php?t=4552497
 
 #------------------------VTV------------------------#
-#EXTINF:-1 group-title="VTV SD" tvg-logo="https://i.imgur.com/te4Rb7f.png",VTV1 [Server 1]
+#EXTINF:-1 group-title="VTV SD" tvg-logo="https://i.imgur.com/te4Rb7f.png",VTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://14.186.66.114:8889/rtp/232.84.1.27:8136
-#EXTINF:-1 group-title="VTV SD" tvg-logo="https://i.imgur.com/KmngEnt.png",VTV2 [Server 1]
+#EXTINF:-1 group-title="VTV SD" tvg-logo="https://i.imgur.com/KmngEnt.png",VTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://14.186.66.114:8889/rtp/232.84.1.39:8208
-#EXTINF:-1 group-title="VTV SD" tvg-logo="https://i.imgur.com/yNiXZri.png",VTV3 [Server 1]
+#EXTINF:-1 group-title="VTV SD" tvg-logo="https://i.imgur.com/yNiXZri.png",VTV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://14.186.66.114:8889/rtp/232.84.1.28:8142
-#EXTINF:-1 group-title="VTV SD" tvg-logo="https://i.imgur.com/WG3Wi0q.png",VTV4 [Server 1]
+#EXTINF:-1 group-title="VTV SD" tvg-logo="https://i.imgur.com/WG3Wi0q.png",VTV4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://14.186.66.114:8889/rtp/232.84.1.40:8214
-#EXTINF:-1 group-title="VTV SD" tvg-logo="https://i.imgur.com/lOvwbNQ.png",VTV5 [Server 1]
+#EXTINF:-1 group-title="VTV SD" tvg-logo="https://i.imgur.com/lOvwbNQ.png",VTV5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://14.186.66.114:8889/rtp/232.84.1.41:8220
-#EXTINF:-1 group-title="VTV SD" tvg-logo="https://i.imgur.com/QI4bFvX.png",VTV6 [Server 1]
+#EXTINF:-1 group-title="VTV SD" tvg-logo="https://i.imgur.com/QI4bFvX.png",VTV6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://14.186.66.114:8889/rtp/232.84.1.42:8226
-#EXTINF:-1 group-title="VTV SD" tvg-logo="https://i.imgur.com/z8m5lWk.png",VTV7 [Server 1]
+#EXTINF:-1 group-title="VTV SD" tvg-logo="https://i.imgur.com/z8m5lWk.png",VTV7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://14.186.66.114:8889/rtp/232.84.2.201:10990
-#EXTINF:-1 group-title="VTV SD" tvg-logo="https://i.imgur.com/mIjvO6X.png",VTV8 [Server 1]
+#EXTINF:-1 group-title="VTV SD" tvg-logo="https://i.imgur.com/mIjvO6X.png",VTV8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://14.186.66.114:8889/rtp/232.84.1.148:8862
-#EXTINF:-1 group-title="VTV SD" tvg-logo="https://i.imgur.com/GDP5zVb.png",VTV9 [Server 1]
+#EXTINF:-1 group-title="VTV SD" tvg-logo="https://i.imgur.com/GDP5zVb.png",VTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://14.186.66.114:8889/rtp/232.84.1.241:9420
 #------------------------VTV HD------------------------#
