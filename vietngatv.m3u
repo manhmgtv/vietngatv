@@ -658,10 +658,10 @@ https://livecdn.fptplay.net/sda/kiengiang_hls.smil/chunklist_b2500000.m3u8
 http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 group-title="TH DIA PHUONG" tvg-logo="https://i.ibb.co/L6Rk1rZ/kontumtvlogobyvovanloc.png",KON TUM
 #EXTVLCOPT:http-user-agent=SmartSDK
-https://livecdn.fptplay.net/sdc/kontum_1000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="TH DIA PHUONG" tvg-logo="https://i.ibb.co/L6Rk1rZ/kontumtvlogobyvovanloc.png",KON TUM HD [720p]
-#EXTVLCOPT:http-user-agent=SmartSDK
 https://livecdn.fptplay.net/sdc/kontum_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="TH DIA PHUONG" tvg-logo="https://i.ibb.co/L6Rk1rZ/kontumtvlogobyvovanloc.png",KON TUM HD
+#EXTVLCOPT:http-user-agent=SmartSDK
+https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
 #EXTINF:-1 group-title="TH DIA PHUONG" tvg-logo="https://i.ibb.co/7Cy4H5t/laichautvlogobyvovanloc.png",LAI CHAU
 #EXTVLCOPT:http-user-agent=SmartSDK
 https://livecdn.fptplay.net/sdc/laichau_hls.smil/chunklist_b2500000.m3u8
